@@ -1,0 +1,1501 @@
+EmployeeID,Age,Department,JobRole,EducationField,MonthlyIncome,YearsAtCompany,DistanceFromHome,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,OverTime,NumCompaniesWorked,TrainingTimesLastYear,PercentSalaryHike,PerformanceRating,Attrition
+1,24,Engineering,Manager,Life Sciences,86514,19,21,3,4,2,No,1,0,17,3,No
+2,51,Support,Representative,Marketing,50147,16,16,4,1,1,Yes,0,3,15,2,No
+3,46,Sales,Representative,HR,45917,23,29,3,3,3,Yes,3,3,11,1,No
+4,38,R&D,Representative,Life Sciences,58536,24,23,3,3,2,No,2,4,12,4,No
+5,37,Sales,Manager,Other,95657,17,1,2,4,4,No,0,3,22,2,No
+6,54,HR,Manager,Life Sciences,47735,9,11,1,2,3,No,6,1,20,1,No
+7,24,HR,Representative,HR,138413,14,9,2,1,4,No,4,2,19,4,No
+8,48,Sales,Executive,HR,79781,10,18,3,4,2,No,7,2,22,1,No
+9,28,Engineering,Representative,Other,131541,15,8,1,3,1,No,3,5,11,3,No
+10,24,Sales,Technician,HR,107239,20,29,1,2,1,Yes,3,3,20,2,No
+11,41,Engineering,Technician,Technical Degree,60002,9,9,2,2,2,No,6,3,21,4,Yes
+12,59,Engineering,Analyst,HR,45814,12,16,4,2,2,No,0,4,13,1,No
+13,49,Support,Representative,Marketing,115432,1,4,3,2,4,Yes,2,2,18,4,No
+14,50,Sales,Technician,Technical Degree,59649,18,27,3,2,2,No,6,5,21,1,No
+15,48,Support,Executive,Other,48327,12,27,3,2,4,No,2,4,19,4,No
+16,51,HR,Analyst,Life Sciences,140601,11,24,1,2,1,Yes,7,5,13,2,Yes
+17,41,Support,Representative,Marketing,80155,13,11,2,1,2,No,2,4,19,1,Yes
+18,25,Engineering,Executive,Life Sciences,21556,5,2,1,4,4,No,3,3,21,2,No
+19,53,Engineering,Technician,Technical Degree,81793,14,21,4,1,1,No,7,0,10,1,No
+20,38,Sales,Manager,HR,77203,18,13,4,1,2,No,1,3,18,2,No
+21,40,Engineering,Analyst,Life Sciences,131635,8,29,2,1,4,No,7,0,17,3,No
+22,35,HR,Representative,Technical Degree,111060,3,21,2,4,3,No,0,3,15,3,No
+23,28,Support,Analyst,Technical Degree,40833,9,16,2,2,4,No,2,4,10,3,No
+24,57,Engineering,Executive,HR,35311,4,29,4,2,3,No,4,3,11,4,No
+25,51,Sales,Executive,Marketing,96485,9,24,2,2,4,No,4,1,21,2,No
+26,46,Support,Technician,Life Sciences,21395,15,14,4,1,4,No,7,0,22,3,No
+27,36,Sales,Representative,Life Sciences,58067,2,1,2,2,4,No,7,4,16,1,No
+28,53,R&D,Manager,Technical Degree,33657,18,3,3,1,1,No,5,4,24,2,No
+29,42,R&D,Representative,Technical Degree,17775,5,13,3,4,3,Yes,5,2,23,3,No
+30,38,Support,Analyst,Other,139041,22,17,2,1,1,No,2,4,19,1,No
+31,38,Sales,Executive,Technical Degree,27125,18,1,4,2,1,No,6,4,18,2,No
+32,29,Support,Analyst,Life Sciences,16250,6,4,3,4,2,No,5,3,24,1,No
+33,24,R&D,Representative,HR,140940,14,21,4,4,3,No,0,0,19,4,No
+34,42,Engineering,Manager,Life Sciences,40423,2,22,4,3,2,No,6,5,24,3,No
+35,55,Sales,Representative,Marketing,125235,2,1,1,1,4,Yes,2,2,24,3,No
+36,23,R&D,Technician,HR,19223,23,15,1,2,2,Yes,3,4,12,3,Yes
+37,54,Engineering,Manager,Marketing,35730,20,3,3,1,3,No,3,5,19,1,No
+38,53,Engineering,Technician,Technical Degree,29934,3,21,2,3,4,No,6,2,20,1,Yes
+39,31,Support,Analyst,Technical Degree,110345,7,25,2,2,4,No,2,3,22,2,No
+40,45,Support,Executive,Other,98720,4,26,1,3,1,No,3,0,15,1,No
+41,27,HR,Representative,Marketing,79192,9,18,2,3,3,No,0,5,22,2,No
+42,50,R&D,Manager,Other,47621,7,19,2,4,1,No,2,0,17,2,No
+43,48,R&D,Analyst,HR,26996,8,27,2,2,3,No,0,3,15,4,No
+44,34,Support,Technician,HR,91843,13,18,3,4,2,No,4,2,12,2,No
+45,23,Engineering,Executive,Life Sciences,46146,4,13,3,2,4,No,7,0,14,1,No
+46,58,Support,Technician,Life Sciences,94676,22,22,2,3,4,No,3,2,24,4,No
+47,38,HR,Manager,HR,107808,18,18,1,3,4,No,7,5,20,1,No
+48,55,HR,Analyst,Technical Degree,129673,19,25,3,4,4,Yes,7,1,20,1,No
+49,47,Support,Analyst,Marketing,81687,4,16,1,2,2,Yes,0,1,23,2,Yes
+50,51,Engineering,Technician,Other,15640,17,26,2,4,3,Yes,4,1,14,1,No
+51,50,R&D,Executive,Marketing,52890,20,2,2,2,1,No,4,0,19,4,No
+52,28,HR,Executive,Technical Degree,130204,4,2,1,2,3,No,3,1,15,2,No
+53,35,R&D,Analyst,HR,86988,18,3,2,2,1,No,6,3,22,4,No
+54,39,Engineering,Executive,Other,98581,8,17,2,3,3,No,3,4,16,1,No
+55,40,Sales,Manager,Other,76806,19,21,4,3,4,Yes,0,4,22,3,No
+56,22,Support,Technician,HR,36970,11,7,4,1,3,No,4,4,21,1,No
+57,42,Support,Representative,Life Sciences,136055,20,5,1,4,4,No,1,4,21,1,No
+58,27,Sales,Technician,Life Sciences,119346,3,25,3,4,1,Yes,2,2,23,2,Yes
+59,49,Engineering,Manager,HR,149349,9,22,3,1,4,Yes,4,5,21,4,No
+60,47,Sales,Representative,Technical Degree,130491,6,19,2,4,3,Yes,5,1,14,2,Yes
+61,56,R&D,Analyst,Life Sciences,54302,6,15,2,3,3,No,2,4,17,4,No
+62,50,R&D,Executive,HR,49325,7,13,4,1,4,Yes,3,0,17,1,No
+63,35,HR,Technician,Other,48544,9,1,2,2,3,No,0,4,10,2,No
+64,58,Support,Analyst,Life Sciences,139037,3,6,1,4,2,No,3,0,18,3,No
+65,37,HR,Manager,Other,90186,17,27,2,2,3,No,4,1,16,2,No
+66,33,R&D,Technician,Marketing,76351,13,10,2,4,3,No,4,2,15,3,No
+67,56,Sales,Technician,Marketing,145715,20,21,2,2,4,Yes,2,4,11,3,Yes
+68,35,Support,Manager,HR,96462,17,21,1,1,2,No,0,0,17,1,No
+69,23,R&D,Executive,Marketing,137773,3,9,1,2,3,No,4,1,18,3,No
+70,39,HR,Analyst,Life Sciences,147927,1,6,4,3,3,No,5,2,11,4,No
+71,52,Sales,Executive,Other,25725,10,21,1,3,1,Yes,0,4,19,4,Yes
+72,28,R&D,Technician,Marketing,63807,12,3,3,4,1,No,4,5,12,2,No
+73,39,HR,Analyst,Life Sciences,114108,6,15,3,1,1,No,0,3,12,2,No
+74,26,Support,Manager,HR,124776,19,26,3,4,3,Yes,3,3,16,4,No
+75,47,R&D,Analyst,Marketing,35045,14,21,4,3,2,Yes,5,2,15,4,No
+76,39,HR,Manager,HR,57983,18,23,1,1,4,Yes,5,4,23,4,No
+77,33,Support,Manager,Life Sciences,89003,2,3,2,4,3,No,5,0,11,4,No
+78,29,R&D,Manager,Technical Degree,122893,20,6,1,2,1,No,6,0,15,2,No
+79,43,R&D,Technician,Technical Degree,30250,5,8,3,3,1,No,1,1,21,1,No
+80,47,Sales,Representative,Other,96099,11,9,3,3,2,No,6,1,13,1,No
+81,57,Support,Technician,Technical Degree,55019,10,6,4,1,4,No,2,2,24,2,No
+82,38,Sales,Manager,Other,44208,20,29,2,1,1,No,2,5,21,4,No
+83,27,R&D,Representative,Marketing,84578,6,5,1,3,1,Yes,6,3,24,2,Yes
+84,53,Sales,Executive,Technical Degree,70893,6,21,4,2,1,Yes,2,2,24,2,No
+85,45,Engineering,Manager,Other,100821,8,18,3,1,2,No,0,1,11,4,No
+86,48,R&D,Executive,Life Sciences,57880,9,18,4,1,4,No,5,3,16,1,No
+87,24,Engineering,Representative,Other,126142,4,7,2,4,3,No,5,1,21,3,No
+88,33,Engineering,Executive,HR,25544,4,9,2,1,2,No,4,5,10,3,Yes
+89,50,Sales,Analyst,HR,131353,5,18,2,1,1,No,1,2,16,4,No
+90,53,R&D,Executive,Marketing,19027,11,9,3,3,2,Yes,5,3,20,2,Yes
+91,37,Sales,Manager,Other,114345,8,21,1,1,3,No,1,5,21,3,No
+92,52,Sales,Technician,Other,61774,9,2,4,3,2,Yes,4,1,16,4,Yes
+93,53,HR,Representative,Marketing,66750,17,3,1,3,3,No,4,2,22,4,No
+94,36,R&D,Executive,Technical Degree,17569,6,22,2,3,4,No,6,3,20,3,Yes
+95,56,Sales,Executive,Life Sciences,109783,22,18,2,2,1,Yes,7,1,10,3,Yes
+96,32,HR,Manager,Marketing,37340,18,2,3,4,2,Yes,1,0,14,4,No
+97,30,HR,Representative,Life Sciences,103986,4,27,3,3,1,No,0,1,24,4,No
+98,47,Support,Executive,Technical Degree,112899,7,1,4,2,3,No,4,0,10,3,No
+99,45,Engineering,Executive,Technical Degree,129107,4,28,4,1,2,No,7,4,11,2,Yes
+100,26,R&D,Analyst,Technical Degree,110592,6,22,1,2,2,Yes,1,0,15,3,Yes
+101,53,HR,Manager,HR,55702,9,29,1,1,1,No,3,1,24,1,Yes
+102,28,Sales,Executive,Other,114708,3,28,4,1,1,No,3,5,20,3,No
+103,52,R&D,Analyst,Life Sciences,126503,0,10,2,2,2,No,2,3,12,2,Yes
+104,21,HR,Technician,Marketing,57815,10,22,1,1,3,No,5,4,15,4,No
+105,52,Sales,Executive,Marketing,31763,17,7,4,1,1,No,2,4,24,3,No
+106,51,Support,Technician,Other,135152,7,14,3,2,1,No,3,1,13,4,No
+107,51,HR,Executive,Life Sciences,34971,21,7,1,3,2,No,6,3,18,4,No
+108,46,Engineering,Technician,Life Sciences,95167,9,15,4,1,3,No,3,1,16,4,No
+109,39,R&D,Manager,Life Sciences,46897,22,26,3,2,2,No,0,3,21,1,No
+110,48,Support,Manager,HR,32013,5,13,3,1,2,No,7,4,21,4,No
+111,31,R&D,Executive,Technical Degree,119816,13,3,4,1,1,No,2,5,22,2,No
+112,51,Support,Representative,Other,34402,19,10,2,1,3,Yes,6,5,11,3,No
+113,42,HR,Analyst,Marketing,105480,1,23,2,2,4,Yes,6,0,16,2,Yes
+114,38,Engineering,Technician,Marketing,108567,23,16,3,3,4,No,4,1,20,2,No
+115,40,R&D,Manager,Technical Degree,23130,9,17,1,4,3,No,0,3,16,4,No
+116,43,Support,Executive,Life Sciences,38347,12,13,1,3,3,No,7,1,20,4,No
+117,22,Sales,Executive,Other,122239,15,9,4,3,2,No,5,3,19,3,No
+118,26,Sales,Analyst,Other,83484,16,18,1,4,1,No,3,5,15,1,No
+119,30,HR,Manager,Life Sciences,31382,0,19,3,2,2,No,6,1,11,1,Yes
+120,25,Support,Technician,Other,148889,21,27,2,4,3,No,6,5,24,1,No
+121,38,Support,Technician,Technical Degree,50773,15,18,1,4,3,Yes,6,5,22,4,No
+122,47,Support,Manager,Marketing,15541,24,29,3,3,4,No,1,5,23,2,No
+123,46,HR,Analyst,Other,139762,11,24,4,4,4,Yes,5,0,14,1,No
+124,39,Support,Manager,Technical Degree,17238,15,3,2,1,1,No,2,1,14,3,No
+125,54,HR,Technician,Marketing,89703,11,12,1,4,1,No,0,0,14,4,No
+126,43,HR,Technician,Other,149066,22,12,1,3,2,No,2,0,10,3,No
+127,24,Sales,Technician,HR,93004,20,1,1,1,4,Yes,0,0,12,2,No
+128,50,Engineering,Executive,Life Sciences,93926,22,6,4,1,4,No,0,2,14,1,No
+129,43,R&D,Manager,HR,67403,12,23,2,3,1,Yes,5,0,24,4,Yes
+130,45,Sales,Representative,HR,32132,19,11,2,2,1,No,4,1,13,1,No
+131,43,R&D,Manager,Marketing,92313,8,5,1,2,3,Yes,3,5,17,4,No
+132,42,Engineering,Executive,Technical Degree,136135,11,9,2,2,3,No,1,5,18,1,No
+133,24,R&D,Executive,Other,27298,19,8,4,4,4,No,6,5,15,1,No
+134,42,R&D,Executive,Life Sciences,133851,2,6,2,2,4,Yes,5,0,23,2,No
+135,52,R&D,Technician,HR,71031,17,3,3,1,1,Yes,4,3,11,1,No
+136,32,HR,Executive,Other,87387,0,23,1,2,1,No,1,3,23,1,Yes
+137,44,Engineering,Analyst,Other,37329,14,24,1,1,3,Yes,0,0,21,1,No
+138,22,Engineering,Manager,Marketing,98941,11,15,3,3,3,Yes,0,5,14,3,No
+139,34,Sales,Executive,Marketing,39617,11,18,1,4,4,No,0,2,21,4,No
+140,38,R&D,Representative,Other,51880,12,27,2,4,3,No,7,5,16,1,No
+141,59,Engineering,Technician,Technical Degree,112417,12,25,2,3,3,No,2,0,24,3,No
+142,29,R&D,Representative,Technical Degree,21820,10,1,1,4,2,No,5,3,10,2,No
+143,31,Sales,Representative,Technical Degree,75369,11,28,3,2,1,No,7,0,10,2,No
+144,36,R&D,Representative,Technical Degree,95266,14,2,4,3,4,No,7,5,18,2,No
+145,59,Engineering,Technician,HR,32823,19,1,1,1,4,No,2,3,23,4,No
+146,54,Engineering,Analyst,Technical Degree,54791,13,12,4,3,1,No,3,0,10,3,No
+147,22,Sales,Technician,Marketing,61372,16,22,3,3,3,No,3,1,21,3,No
+148,30,Engineering,Analyst,Technical Degree,104588,20,3,3,1,2,No,0,2,24,4,No
+149,53,Sales,Executive,HR,146855,24,9,1,3,2,No,6,0,17,3,No
+150,23,Engineering,Manager,Other,127893,2,8,4,3,4,Yes,4,0,23,1,No
+151,54,HR,Analyst,Technical Degree,40618,17,12,1,2,4,No,2,5,21,1,No
+152,31,Sales,Executive,HR,17451,5,29,4,3,1,Yes,4,5,13,2,Yes
+153,56,R&D,Representative,Technical Degree,22008,4,10,3,2,2,No,5,3,22,1,No
+154,32,Support,Representative,HR,95421,19,7,2,2,4,Yes,0,5,20,3,Yes
+155,37,HR,Analyst,Marketing,36095,1,4,1,1,4,No,5,3,10,2,Yes
+156,46,Engineering,Analyst,Technical Degree,46222,21,6,3,2,1,No,6,0,18,1,No
+157,25,Engineering,Representative,Life Sciences,129397,19,4,1,4,4,No,5,4,19,2,No
+158,42,Sales,Analyst,Marketing,132974,24,17,3,4,2,Yes,4,0,22,4,No
+159,40,Support,Technician,HR,128269,16,13,4,3,3,Yes,0,4,21,4,No
+160,51,R&D,Analyst,Life Sciences,49244,21,15,2,3,1,No,5,2,17,4,No
+161,59,Engineering,Manager,Marketing,98657,2,25,1,3,3,Yes,6,0,14,4,Yes
+162,46,HR,Technician,HR,97453,22,17,1,2,3,No,3,1,12,3,No
+163,36,HR,Executive,Other,40008,4,5,1,2,3,No,4,4,11,4,No
+164,36,R&D,Manager,Technical Degree,89728,7,11,1,3,4,Yes,4,5,19,4,Yes
+165,37,Support,Technician,Technical Degree,85909,3,10,1,4,4,No,0,3,24,3,No
+166,52,Sales,Technician,Technical Degree,68482,10,24,3,2,4,No,2,0,11,2,No
+167,33,Support,Representative,HR,116474,18,9,2,3,3,Yes,6,5,20,4,Yes
+168,27,R&D,Technician,Technical Degree,106478,6,5,4,2,4,No,7,4,18,2,No
+169,34,Support,Executive,Life Sciences,86908,20,22,4,2,3,Yes,2,2,12,1,No
+170,21,Sales,Representative,Technical Degree,112978,15,13,4,2,3,No,3,3,13,1,No
+171,25,Sales,Analyst,Marketing,118019,15,3,3,1,3,No,7,5,14,3,No
+172,24,Sales,Executive,HR,91536,23,21,2,2,4,No,1,2,20,1,No
+173,51,HR,Analyst,Life Sciences,51136,10,7,4,3,1,No,2,0,14,1,No
+174,49,R&D,Executive,HR,117387,8,26,1,3,3,Yes,0,0,22,1,Yes
+175,48,HR,Analyst,Life Sciences,111877,24,25,2,4,2,No,1,3,15,3,No
+176,39,Support,Analyst,Other,147761,13,11,2,1,4,No,5,5,11,2,No
+177,48,Sales,Executive,HR,35220,15,17,3,4,1,No,2,4,11,3,No
+178,27,HR,Representative,Life Sciences,71601,7,17,3,4,3,No,7,3,16,3,No
+179,56,Engineering,Analyst,Other,139770,5,19,4,2,1,No,7,1,16,4,No
+180,40,HR,Representative,Technical Degree,84468,4,3,4,2,4,No,7,2,21,1,No
+181,57,Support,Analyst,HR,142254,5,10,2,2,4,No,5,0,17,2,No
+182,26,Engineering,Analyst,Life Sciences,16683,4,5,4,3,1,No,5,2,12,3,Yes
+183,40,Sales,Representative,Life Sciences,19747,18,21,1,4,4,No,4,3,13,2,No
+184,48,HR,Manager,Other,122463,1,3,4,3,2,No,7,5,18,1,Yes
+185,40,R&D,Representative,Technical Degree,63388,15,15,1,3,4,No,0,5,15,1,No
+186,38,Sales,Executive,HR,85231,23,22,4,3,3,Yes,5,4,20,2,No
+187,27,Support,Representative,Other,72781,19,28,2,1,1,No,1,0,23,2,No
+188,35,R&D,Technician,Technical Degree,70074,10,9,4,3,1,Yes,2,4,15,1,No
+189,30,Sales,Analyst,Marketing,141829,1,1,1,1,2,No,2,1,18,2,No
+190,32,R&D,Manager,Other,27699,20,21,2,4,1,Yes,4,3,22,3,Yes
+191,47,Support,Analyst,Life Sciences,119249,0,1,4,4,1,Yes,6,5,13,4,Yes
+192,45,HR,Analyst,Technical Degree,135103,17,2,1,3,4,No,0,5,17,3,No
+193,44,Support,Representative,Other,103750,16,29,2,2,4,No,4,3,14,1,No
+194,35,HR,Representative,Marketing,68325,4,26,1,3,2,No,1,1,19,3,No
+195,58,Sales,Analyst,Marketing,36601,18,21,2,3,1,No,0,3,21,1,No
+196,24,R&D,Manager,Technical Degree,107148,4,25,2,3,1,Yes,3,4,12,1,Yes
+197,34,Sales,Manager,Life Sciences,78287,5,3,3,3,4,No,4,3,12,3,No
+198,25,HR,Manager,Life Sciences,35165,20,3,2,1,2,No,1,2,10,2,No
+199,34,R&D,Executive,Marketing,63552,24,9,1,1,1,No,3,2,10,2,No
+200,58,Support,Executive,Other,144809,6,1,1,2,2,No,7,3,10,4,No
+201,35,R&D,Technician,Marketing,50827,23,26,4,3,2,Yes,2,0,20,1,No
+202,56,R&D,Manager,HR,39089,22,2,4,2,3,No,7,5,23,1,No
+203,40,Support,Analyst,Technical Degree,107066,19,16,1,3,2,No,6,0,16,3,No
+204,48,HR,Technician,HR,41938,3,25,1,2,4,Yes,2,5,23,2,Yes
+205,38,Sales,Technician,Marketing,139187,7,22,1,4,3,No,4,0,20,4,No
+206,31,HR,Manager,Other,130962,16,7,4,2,4,No,5,3,22,1,No
+207,50,R&D,Technician,Marketing,147776,24,14,3,4,2,Yes,3,2,21,2,No
+208,58,Engineering,Executive,HR,138198,20,16,4,2,3,No,3,3,12,1,No
+209,31,HR,Analyst,Other,47908,10,23,2,2,2,Yes,2,2,17,1,Yes
+210,51,Engineering,Executive,Technical Degree,43639,5,13,3,3,3,Yes,1,5,17,2,No
+211,31,Support,Analyst,HR,61256,24,9,1,2,3,No,0,0,19,3,No
+212,48,Engineering,Executive,Life Sciences,78423,6,24,3,1,2,Yes,2,5,21,1,Yes
+213,51,R&D,Representative,Technical Degree,133799,8,26,3,2,4,Yes,6,4,11,4,No
+214,38,R&D,Technician,Marketing,114021,24,15,2,4,4,No,1,4,20,3,No
+215,49,HR,Manager,Other,101998,14,1,3,1,4,Yes,1,0,22,2,No
+216,31,HR,Technician,Other,133579,6,15,3,2,1,No,2,0,11,4,No
+217,24,R&D,Manager,HR,102194,0,26,2,3,3,No,4,2,16,2,No
+218,24,Support,Analyst,Other,66172,10,29,1,3,1,Yes,1,1,23,1,Yes
+219,38,Support,Executive,Other,70755,24,12,1,2,1,No,1,4,10,4,No
+220,56,R&D,Analyst,HR,84797,10,5,4,1,4,Yes,0,5,12,1,No
+221,25,Engineering,Executive,Technical Degree,26984,17,17,2,1,1,No,2,2,22,4,Yes
+222,38,Support,Executive,Marketing,115131,6,25,2,2,4,Yes,1,4,12,4,Yes
+223,48,Sales,Analyst,Other,103124,19,28,3,4,2,No,6,0,20,4,No
+224,28,R&D,Analyst,Life Sciences,113703,19,2,2,1,2,Yes,7,4,23,2,Yes
+225,49,Engineering,Manager,Life Sciences,87082,15,9,2,4,1,No,2,0,17,3,No
+226,32,HR,Executive,Other,120699,19,14,3,3,3,Yes,0,4,17,4,No
+227,52,Engineering,Analyst,Life Sciences,143216,14,3,3,1,3,Yes,0,2,16,1,No
+228,43,HR,Representative,Life Sciences,91941,9,26,3,2,2,No,2,2,15,2,No
+229,42,Sales,Technician,Technical Degree,74991,18,4,1,1,4,No,3,1,15,2,No
+230,27,HR,Executive,Technical Degree,29123,20,20,2,4,2,No,4,2,18,3,No
+231,39,HR,Representative,Life Sciences,120121,21,27,2,3,3,Yes,2,5,23,3,Yes
+232,54,Support,Analyst,Marketing,137036,5,20,3,2,2,Yes,2,4,24,4,No
+233,21,Sales,Analyst,Marketing,109431,16,23,1,2,3,No,2,2,22,2,No
+234,50,Sales,Executive,Marketing,131852,0,8,1,3,1,No,4,1,11,1,Yes
+235,40,Sales,Manager,Life Sciences,131261,14,24,4,1,2,No,5,3,14,1,No
+236,49,HR,Technician,HR,122743,14,13,3,2,3,No,0,4,21,4,No
+237,46,Support,Manager,Technical Degree,82888,9,2,4,1,3,No,3,1,18,2,No
+238,37,Engineering,Executive,Other,28481,24,11,2,3,2,Yes,5,4,15,3,Yes
+239,33,Support,Executive,Life Sciences,15438,22,11,4,3,3,No,5,5,14,3,No
+240,45,Support,Representative,HR,42593,0,16,2,2,3,No,4,5,11,4,Yes
+241,26,Engineering,Representative,Other,73188,5,8,3,1,2,No,4,3,14,1,No
+242,43,Engineering,Executive,Technical Degree,115386,5,14,1,2,1,No,5,1,16,1,No
+243,24,R&D,Representative,HR,76533,22,13,4,4,3,Yes,3,1,16,3,No
+244,46,Support,Representative,Technical Degree,18123,12,10,2,1,4,No,4,4,18,2,No
+245,45,Engineering,Manager,Technical Degree,43396,18,21,4,1,4,No,2,2,14,4,No
+246,24,Support,Technician,Other,147195,20,9,2,1,3,Yes,3,0,13,1,No
+247,50,Support,Manager,Technical Degree,148383,19,23,4,4,4,No,0,4,23,2,No
+248,37,R&D,Manager,Technical Degree,65914,2,8,2,1,4,No,2,0,16,4,No
+249,51,Sales,Technician,Other,123673,3,26,1,3,3,Yes,1,5,13,4,Yes
+250,22,Support,Manager,Technical Degree,112107,9,11,1,4,1,Yes,1,2,19,1,Yes
+251,27,HR,Manager,Life Sciences,140721,8,2,3,3,3,Yes,3,2,18,4,No
+252,40,Support,Manager,HR,134822,18,5,1,2,3,No,4,0,18,1,No
+253,28,Engineering,Executive,HR,99880,3,24,2,1,2,Yes,7,1,13,1,Yes
+254,33,R&D,Representative,Marketing,68275,9,26,3,1,4,No,0,5,20,4,No
+255,46,R&D,Technician,HR,99598,5,7,2,1,4,No,7,3,12,1,No
+256,26,Engineering,Representative,Life Sciences,58082,4,18,1,4,2,No,2,5,22,2,No
+257,47,R&D,Analyst,Marketing,61992,4,17,3,1,2,Yes,5,5,16,1,Yes
+258,25,R&D,Executive,Other,97180,4,4,3,1,1,No,5,0,16,3,No
+259,27,R&D,Manager,HR,92138,14,14,3,4,1,No,7,2,15,1,No
+260,43,Engineering,Manager,HR,93433,10,21,4,2,2,No,0,5,16,2,No
+261,51,Sales,Representative,HR,66931,10,29,1,2,2,Yes,7,2,19,2,Yes
+262,27,Sales,Manager,Life Sciences,70233,11,25,2,3,2,No,0,3,17,3,No
+263,32,Sales,Technician,Other,16375,18,3,1,3,1,No,7,3,11,2,Yes
+264,57,Engineering,Executive,Marketing,96239,21,7,4,4,2,No,5,4,18,1,No
+265,59,Sales,Representative,HR,92730,13,13,3,2,3,Yes,3,5,14,2,No
+266,43,HR,Technician,Other,141276,16,5,1,3,2,No,3,5,11,2,No
+267,38,Sales,Analyst,Marketing,83077,18,17,3,4,3,Yes,0,3,22,2,No
+268,34,HR,Manager,HR,78131,17,1,1,2,2,Yes,6,3,14,3,Yes
+269,44,Sales,Manager,Life Sciences,24137,3,4,2,2,3,Yes,5,2,18,2,Yes
+270,44,Sales,Manager,HR,41560,24,2,3,4,3,No,7,0,12,2,No
+271,32,HR,Analyst,Technical Degree,60635,4,9,3,1,4,No,5,4,15,4,No
+272,21,Engineering,Representative,Life Sciences,65922,10,23,4,1,1,Yes,7,0,15,2,Yes
+273,26,Sales,Manager,HR,63962,16,6,3,3,4,No,7,4,12,2,No
+274,58,HR,Technician,Other,68204,10,29,4,4,2,No,3,2,24,1,No
+275,37,Support,Analyst,Life Sciences,118803,6,8,3,1,1,Yes,5,4,14,3,No
+276,39,Engineering,Technician,Other,32699,23,2,1,4,3,No,2,5,18,3,No
+277,39,Engineering,Technician,Other,59855,1,10,1,4,1,No,6,3,18,3,Yes
+278,51,R&D,Executive,Technical Degree,36987,6,22,4,4,1,Yes,4,3,16,1,No
+279,23,Support,Executive,Other,56552,24,4,1,2,4,No,3,2,18,2,No
+280,24,Sales,Representative,Marketing,107415,18,3,2,2,1,No,5,2,18,2,No
+281,31,Engineering,Executive,HR,21313,2,25,1,3,3,No,2,0,11,4,No
+282,39,HR,Analyst,HR,60829,18,18,2,1,1,No,4,0,20,2,No
+283,47,Sales,Technician,Technical Degree,18197,24,10,3,4,1,No,3,4,11,2,No
+284,40,Support,Analyst,Other,143911,2,22,1,3,1,No,2,5,16,2,No
+285,38,Engineering,Executive,Other,113179,10,25,2,2,1,No,7,0,15,4,No
+286,57,R&D,Executive,HR,47885,11,11,4,3,2,No,0,1,16,3,No
+287,27,Sales,Technician,Technical Degree,41756,3,17,1,3,2,Yes,6,3,11,4,Yes
+288,43,Engineering,Representative,Other,28354,5,1,1,3,1,No,1,4,20,2,No
+289,42,HR,Manager,Technical Degree,78838,4,9,2,4,2,No,1,4,16,4,No
+290,39,Sales,Analyst,HR,116723,4,18,4,4,2,Yes,1,4,10,4,No
+291,52,Support,Representative,Life Sciences,93868,10,6,2,4,3,No,0,0,10,3,No
+292,31,Engineering,Representative,Marketing,133939,11,29,3,3,4,No,0,1,18,3,No
+293,58,HR,Analyst,Other,61415,5,29,1,3,3,No,6,2,19,4,No
+294,33,R&D,Technician,Technical Degree,52545,7,8,3,2,4,No,7,0,18,4,No
+295,42,R&D,Representative,Technical Degree,79536,4,12,1,1,1,No,4,2,20,2,No
+296,41,HR,Technician,Other,42281,19,6,3,2,1,Yes,0,2,21,3,No
+297,54,Sales,Analyst,Marketing,146712,5,15,1,4,4,No,6,5,23,2,No
+298,38,R&D,Technician,Marketing,40078,22,4,4,1,2,No,4,1,24,1,No
+299,32,R&D,Manager,Life Sciences,79647,13,12,2,3,4,No,4,5,23,2,No
+300,21,Sales,Representative,Marketing,85471,20,17,1,1,2,No,7,4,21,4,No
+301,35,Sales,Executive,Technical Degree,22701,15,18,2,2,1,Yes,3,4,16,4,Yes
+302,53,R&D,Manager,HR,78236,6,18,1,1,4,Yes,2,4,17,4,Yes
+303,21,R&D,Manager,Marketing,76384,15,7,1,3,3,No,6,5,19,4,No
+304,55,R&D,Manager,Technical Degree,50024,6,23,3,4,4,Yes,4,1,12,3,No
+305,42,Engineering,Analyst,Marketing,32275,2,21,2,4,2,No,5,2,20,4,Yes
+306,26,HR,Technician,Other,21098,6,22,2,3,1,No,5,3,18,1,Yes
+307,32,Sales,Representative,Technical Degree,16158,6,14,4,1,3,No,6,5,17,2,No
+308,42,Support,Analyst,Life Sciences,80001,3,26,1,3,1,No,2,0,22,1,No
+309,33,Engineering,Technician,HR,27128,0,12,2,1,3,No,0,2,20,4,Yes
+310,25,HR,Analyst,Marketing,144509,23,24,1,2,2,Yes,3,1,23,3,No
+311,46,Sales,Executive,Other,48040,12,6,2,3,4,No,5,1,24,4,No
+312,47,Support,Technician,Marketing,103090,10,8,2,3,4,No,6,4,22,2,No
+313,25,Engineering,Executive,Other,105920,23,16,1,1,2,Yes,2,1,14,2,Yes
+314,31,HR,Analyst,HR,81893,5,17,1,4,4,Yes,5,4,12,3,Yes
+315,30,Sales,Representative,Life Sciences,134287,10,22,4,2,1,No,6,5,14,3,No
+316,46,Sales,Technician,HR,29943,21,9,1,4,1,Yes,6,4,20,2,No
+317,49,R&D,Analyst,HR,46594,15,26,4,3,4,No,6,1,22,2,No
+318,49,R&D,Manager,Technical Degree,49078,9,10,4,3,3,Yes,7,0,23,3,No
+319,57,R&D,Representative,Life Sciences,33280,6,16,2,3,2,Yes,5,2,20,1,Yes
+320,50,HR,Representative,Technical Degree,54794,0,28,2,4,1,No,2,3,20,1,No
+321,33,Sales,Manager,HR,57212,2,16,4,1,2,Yes,3,4,24,1,Yes
+322,25,R&D,Executive,Life Sciences,118248,4,20,4,3,3,Yes,5,2,20,1,No
+323,44,Support,Analyst,Marketing,55719,19,27,1,1,4,No,1,1,12,1,No
+324,56,Support,Technician,HR,133355,15,29,4,2,4,No,4,5,17,1,No
+325,59,Sales,Representative,Technical Degree,119311,10,15,4,4,2,No,4,5,15,1,No
+326,29,Engineering,Representative,Other,136721,19,13,1,4,2,Yes,5,3,19,4,No
+327,30,Support,Manager,Marketing,29205,4,6,1,2,1,No,3,4,19,1,Yes
+328,22,HR,Manager,HR,147916,5,16,3,2,1,No,5,5,14,3,No
+329,26,R&D,Representative,Technical Degree,97884,9,27,1,3,2,No,0,2,14,1,Yes
+330,42,HR,Manager,Marketing,147619,22,15,3,2,3,No,5,0,11,4,No
+331,42,R&D,Analyst,Other,62903,15,11,1,1,1,No,6,3,14,1,No
+332,35,R&D,Manager,HR,143654,21,4,3,2,2,No,7,2,22,3,No
+333,33,Support,Manager,Technical Degree,94461,6,12,1,2,3,No,7,4,19,3,No
+334,53,Engineering,Analyst,Marketing,24695,21,7,1,3,4,No,2,4,24,4,Yes
+335,38,HR,Manager,Other,70366,1,29,1,4,4,No,0,2,23,3,Yes
+336,52,Sales,Analyst,Life Sciences,33602,5,16,1,3,2,No,5,2,22,3,No
+337,58,Support,Manager,Life Sciences,142072,13,4,3,2,2,No,0,2,12,4,No
+338,33,Sales,Executive,Life Sciences,56102,1,2,1,3,4,Yes,2,3,15,4,Yes
+339,28,Engineering,Technician,HR,45018,21,25,4,4,3,No,5,3,10,2,No
+340,58,R&D,Representative,Life Sciences,89641,21,28,3,2,2,No,4,3,11,4,No
+341,45,R&D,Analyst,HR,72396,13,23,2,2,3,No,4,3,13,4,No
+342,32,Sales,Manager,Life Sciences,28092,7,4,4,1,1,No,6,5,14,3,No
+343,45,R&D,Technician,HR,125226,2,3,3,4,2,No,1,1,10,4,No
+344,41,Engineering,Analyst,HR,129182,15,6,3,4,2,Yes,6,1,22,1,No
+345,56,HR,Analyst,Other,115299,13,22,1,1,4,No,4,4,17,3,No
+346,30,Sales,Analyst,Marketing,98262,18,23,3,2,1,No,3,5,19,3,No
+347,59,R&D,Technician,Life Sciences,69345,15,25,3,2,4,No,3,3,19,4,No
+348,57,Sales,Executive,HR,88219,3,3,4,4,2,No,4,2,24,1,No
+349,28,HR,Executive,Technical Degree,85334,3,5,2,1,1,No,4,2,12,4,No
+350,27,Support,Executive,Other,37317,19,27,3,1,3,No,2,2,15,1,No
+351,41,Support,Executive,Life Sciences,26044,3,27,2,2,3,No,1,0,14,2,Yes
+352,22,Support,Representative,Technical Degree,49189,23,22,1,3,1,Yes,1,3,18,3,Yes
+353,32,Sales,Technician,Life Sciences,76335,2,4,1,1,1,No,2,1,17,2,No
+354,37,HR,Technician,Technical Degree,36642,18,2,4,3,1,No,2,1,21,4,No
+355,58,Sales,Technician,Life Sciences,29400,24,2,3,3,2,No,4,3,18,4,No
+356,59,HR,Executive,HR,130010,11,21,2,4,1,No,7,5,13,1,No
+357,26,HR,Manager,HR,65624,1,25,3,1,3,Yes,0,1,18,2,Yes
+358,55,Engineering,Technician,Life Sciences,93870,21,19,1,1,1,No,2,5,24,1,Yes
+359,24,R&D,Analyst,Technical Degree,85743,4,8,1,1,4,No,0,3,18,3,No
+360,50,Sales,Analyst,Technical Degree,114242,13,22,3,4,4,No,7,5,18,4,No
+361,53,HR,Technician,HR,114874,24,2,3,3,3,Yes,5,2,12,3,No
+362,55,HR,Executive,Technical Degree,54964,18,25,4,3,4,No,1,5,10,1,No
+363,29,Engineering,Technician,Technical Degree,129467,1,26,4,4,4,Yes,3,3,13,1,No
+364,55,Sales,Technician,Other,65119,20,21,2,3,1,No,5,4,10,1,No
+365,25,Engineering,Analyst,Technical Degree,127752,4,26,4,1,2,No,7,3,16,2,No
+366,41,HR,Analyst,Other,69655,18,17,2,3,4,Yes,4,2,23,3,No
+367,39,Engineering,Executive,Other,29984,15,14,4,3,2,No,2,3,16,1,No
+368,33,Support,Manager,Other,117602,7,10,1,1,3,No,5,5,19,4,No
+369,21,R&D,Manager,Other,19071,10,27,1,3,4,No,5,4,22,2,Yes
+370,51,Engineering,Representative,HR,119267,2,21,1,2,4,Yes,5,0,21,3,Yes
+371,34,Sales,Executive,Technical Degree,20826,24,6,4,1,2,No,0,4,19,3,No
+372,46,Support,Manager,Technical Degree,42919,5,28,1,2,2,No,5,5,21,3,Yes
+373,36,HR,Executive,Marketing,96454,7,2,4,2,1,No,0,4,14,2,No
+374,35,Engineering,Manager,Other,142107,12,18,3,2,2,No,7,2,16,2,No
+375,55,Engineering,Executive,HR,70144,16,6,1,2,2,Yes,7,2,15,2,Yes
+376,24,Engineering,Manager,Other,31288,12,20,4,3,2,No,4,4,21,1,No
+377,49,R&D,Technician,HR,46442,12,12,1,2,2,No,5,3,16,2,Yes
+378,50,Engineering,Technician,Technical Degree,135976,14,13,1,2,4,No,0,2,24,4,No
+379,35,HR,Manager,Marketing,113109,21,20,3,4,4,Yes,6,2,12,4,No
+380,31,Engineering,Technician,Other,28553,9,22,2,1,3,No,2,2,12,4,Yes
+381,21,Engineering,Technician,HR,66961,20,12,2,2,1,No,2,0,20,2,No
+382,57,HR,Representative,Other,50712,19,29,1,1,2,Yes,5,0,21,2,Yes
+383,57,Sales,Representative,Technical Degree,39007,24,15,3,4,3,No,7,0,20,1,No
+384,30,R&D,Manager,Technical Degree,129274,22,5,1,1,1,Yes,3,2,14,2,No
+385,22,Support,Analyst,Life Sciences,98391,19,1,1,4,2,Yes,4,3,10,3,No
+386,25,HR,Technician,Life Sciences,39231,6,6,3,1,3,No,4,2,14,2,No
+387,23,Engineering,Manager,HR,102843,19,21,2,2,4,Yes,2,5,16,3,Yes
+388,53,R&D,Analyst,Marketing,70831,18,16,3,3,4,No,4,1,16,1,No
+389,55,Engineering,Analyst,Life Sciences,23299,7,10,1,4,2,Yes,7,2,23,2,Yes
+390,26,HR,Manager,HR,75731,16,14,3,1,2,No,3,1,22,2,No
+391,50,R&D,Executive,HR,40006,6,25,4,1,2,No,6,1,21,2,Yes
+392,27,Sales,Executive,Life Sciences,48109,13,17,2,4,3,No,6,3,10,1,No
+393,35,R&D,Technician,Technical Degree,133664,19,2,2,2,2,No,6,1,11,2,No
+394,44,HR,Representative,Technical Degree,110883,4,2,3,1,2,No,5,1,16,4,No
+395,49,R&D,Technician,Life Sciences,33102,8,14,3,3,1,No,7,4,19,4,No
+396,55,R&D,Manager,HR,129930,19,12,1,1,2,Yes,5,4,20,2,Yes
+397,22,R&D,Executive,Marketing,92531,11,25,3,4,1,No,7,1,14,2,No
+398,28,R&D,Technician,Other,133067,24,17,1,4,3,Yes,5,0,11,3,No
+399,31,Engineering,Executive,Life Sciences,115855,0,22,3,4,4,No,6,1,14,2,No
+400,33,HR,Analyst,Other,60808,18,17,4,2,4,Yes,7,3,21,3,No
+401,59,HR,Representative,Life Sciences,87207,20,11,3,1,2,No,7,5,24,2,No
+402,51,Sales,Executive,HR,86664,22,20,4,2,4,No,4,0,24,4,No
+403,33,HR,Analyst,HR,112192,3,19,2,2,4,No,5,0,18,3,No
+404,58,Support,Representative,Technical Degree,48534,24,21,4,4,2,No,7,3,11,4,No
+405,40,Engineering,Manager,Marketing,59966,9,6,4,3,4,Yes,3,5,24,4,No
+406,40,HR,Representative,Life Sciences,48047,8,19,4,4,2,Yes,0,3,12,2,No
+407,37,R&D,Representative,Marketing,54979,8,9,3,4,4,No,7,5,14,2,No
+408,26,R&D,Analyst,HR,36769,15,23,3,3,2,No,5,3,24,1,No
+409,57,Sales,Manager,HR,19933,16,24,3,1,2,Yes,3,0,17,3,Yes
+410,21,Sales,Technician,Life Sciences,141902,11,19,4,1,1,No,5,2,12,3,No
+411,27,Engineering,Technician,Life Sciences,25032,1,28,4,1,4,No,0,4,17,2,No
+412,29,Support,Analyst,Technical Degree,134878,24,16,2,3,2,Yes,3,3,11,1,Yes
+413,31,Support,Executive,Technical Degree,15415,5,1,1,1,4,No,2,1,14,4,No
+414,26,Engineering,Technician,Other,119943,2,18,1,4,1,Yes,2,1,24,1,Yes
+415,21,Support,Manager,HR,59334,14,23,1,1,3,Yes,7,3,14,3,Yes
+416,47,HR,Executive,Technical Degree,84884,10,3,1,4,2,No,4,2,23,1,No
+417,58,R&D,Executive,Technical Degree,53099,15,4,1,3,2,Yes,1,3,18,1,No
+418,25,R&D,Analyst,HR,81232,21,8,1,1,1,No,2,2,19,4,No
+419,32,R&D,Executive,Technical Degree,75960,2,25,4,1,1,No,1,2,20,3,No
+420,40,Engineering,Manager,HR,86515,7,16,1,2,2,No,7,3,18,1,Yes
+421,57,Sales,Manager,Life Sciences,68093,12,29,3,2,2,No,2,0,10,1,No
+422,48,Support,Analyst,Other,87436,19,26,2,2,4,No,2,2,23,2,No
+423,50,Engineering,Technician,Other,126436,15,17,1,3,2,No,2,2,17,3,No
+424,43,R&D,Analyst,Technical Degree,73666,9,20,3,1,1,No,1,4,19,2,No
+425,37,Engineering,Analyst,Technical Degree,63785,15,10,4,1,2,No,6,4,18,4,No
+426,28,Sales,Executive,Technical Degree,32786,24,3,4,3,3,No,4,2,19,3,No
+427,54,HR,Executive,Other,63561,12,12,4,4,2,Yes,3,1,15,3,No
+428,52,Sales,Representative,Life Sciences,31964,22,18,3,2,4,No,3,1,22,2,No
+429,21,Sales,Technician,Marketing,39637,19,6,3,4,2,No,5,1,13,3,No
+430,48,Sales,Executive,HR,143553,7,7,1,2,3,No,0,1,19,4,No
+431,24,Engineering,Analyst,HR,27070,6,1,4,2,1,No,7,4,18,1,No
+432,49,Engineering,Executive,Marketing,80074,19,22,3,1,1,No,4,0,17,3,No
+433,53,Support,Executive,Life Sciences,127630,5,27,2,2,4,Yes,1,0,10,4,Yes
+434,26,Support,Manager,Technical Degree,143682,8,24,2,2,2,No,4,3,15,2,No
+435,37,Support,Technician,HR,34806,5,12,3,3,2,No,6,1,10,4,No
+436,25,Support,Technician,HR,37082,15,18,1,1,3,Yes,1,4,17,2,No
+437,43,Sales,Technician,Life Sciences,65300,7,28,4,1,1,Yes,4,4,20,1,Yes
+438,57,Engineering,Executive,Life Sciences,89846,16,18,2,2,3,Yes,4,4,17,4,No
+439,24,Engineering,Executive,Marketing,144574,23,9,1,1,2,No,6,2,21,2,No
+440,36,Sales,Analyst,Technical Degree,43041,20,10,2,1,1,No,4,2,15,4,No
+441,58,Sales,Representative,Life Sciences,37193,23,22,4,3,2,No,5,2,14,2,No
+442,32,Support,Technician,Life Sciences,49179,0,13,2,4,2,Yes,6,1,16,2,Yes
+443,26,Support,Technician,Technical Degree,133033,11,25,3,3,1,No,7,3,13,3,No
+444,40,R&D,Executive,Marketing,19057,5,26,4,1,3,No,2,5,22,2,No
+445,40,Sales,Representative,HR,66318,22,2,1,4,3,No,5,1,22,4,No
+446,46,R&D,Representative,Life Sciences,31058,17,21,4,3,2,Yes,1,0,16,1,No
+447,33,Sales,Analyst,Other,36204,8,11,2,3,4,Yes,6,3,21,1,Yes
+448,58,Engineering,Manager,Life Sciences,138774,14,16,3,1,3,No,7,2,10,1,No
+449,41,R&D,Technician,Technical Degree,15224,15,8,1,3,4,No,2,4,12,2,No
+450,32,Sales,Technician,Other,58406,12,11,1,1,1,Yes,4,5,14,1,No
+451,58,Support,Representative,HR,138582,11,10,4,3,4,No,6,5,15,2,No
+452,57,Support,Executive,Other,97097,1,2,4,1,2,Yes,0,2,13,1,Yes
+453,40,Support,Analyst,Life Sciences,24686,11,23,4,4,3,Yes,5,5,17,4,No
+454,21,Support,Technician,HR,77776,8,5,3,1,4,No,6,0,21,1,No
+455,44,Sales,Manager,Life Sciences,146077,20,11,2,3,2,No,6,2,16,4,No
+456,42,Engineering,Representative,HR,69060,21,6,1,1,2,No,1,1,16,4,No
+457,26,Engineering,Executive,Marketing,86365,18,5,2,3,1,No,6,5,10,3,No
+458,45,Engineering,Executive,HR,86804,0,11,3,2,3,No,6,3,14,4,No
+459,53,R&D,Technician,Life Sciences,104160,21,27,2,4,4,Yes,0,2,22,4,No
+460,25,R&D,Executive,Other,40277,9,28,2,3,2,No,5,0,22,4,Yes
+461,49,Support,Analyst,Technical Degree,128357,10,12,1,2,1,No,5,4,11,3,Yes
+462,26,Sales,Manager,Technical Degree,148461,23,15,2,1,2,No,7,3,10,3,No
+463,50,Engineering,Technician,Technical Degree,34244,21,29,1,3,2,No,0,5,22,2,No
+464,37,Engineering,Executive,Life Sciences,125471,1,7,1,2,4,No,7,2,12,3,Yes
+465,21,Engineering,Manager,Marketing,125282,8,28,1,1,1,Yes,4,0,18,2,Yes
+466,58,HR,Representative,HR,115117,18,4,3,3,2,Yes,2,2,22,1,No
+467,27,Engineering,Manager,Other,65068,13,7,2,1,3,No,3,3,21,4,No
+468,44,Support,Analyst,Other,78282,6,10,1,1,1,No,6,1,18,3,Yes
+469,28,Engineering,Representative,Technical Degree,128293,13,2,3,1,4,Yes,7,0,15,3,No
+470,57,Sales,Technician,Marketing,35638,21,24,1,2,4,Yes,2,4,21,2,Yes
+471,49,R&D,Technician,Technical Degree,126880,5,25,1,1,2,No,7,3,20,4,No
+472,52,R&D,Representative,Technical Degree,139289,18,12,1,1,3,Yes,5,2,22,3,Yes
+473,37,R&D,Technician,Marketing,107052,18,25,2,2,4,Yes,1,3,17,1,Yes
+474,39,R&D,Representative,Marketing,61087,22,23,4,1,3,No,4,4,24,4,No
+475,45,R&D,Analyst,Other,90485,7,24,1,1,1,No,6,0,21,4,Yes
+476,51,Engineering,Representative,Marketing,21764,5,24,2,2,1,No,0,2,10,4,Yes
+477,54,Sales,Technician,Life Sciences,140793,13,17,1,1,2,No,0,1,14,2,No
+478,21,Engineering,Manager,HR,61224,13,4,2,4,1,No,0,0,21,1,No
+479,46,Engineering,Analyst,HR,22708,10,27,3,2,2,No,4,0,11,1,No
+480,25,Support,Manager,Marketing,122251,19,18,2,4,3,Yes,0,2,20,3,No
+481,32,Sales,Manager,HR,103770,19,27,3,4,3,Yes,7,3,15,4,No
+482,53,R&D,Manager,Other,99065,6,28,4,4,1,No,1,3,13,1,No
+483,30,Support,Analyst,Other,22303,19,6,4,3,1,No,0,4,18,3,No
+484,52,HR,Manager,HR,116363,5,12,3,2,1,No,2,2,23,1,No
+485,39,HR,Technician,Technical Degree,101037,10,6,3,3,2,Yes,6,3,23,4,No
+486,30,Sales,Manager,Life Sciences,122140,0,2,4,1,4,No,7,4,16,1,No
+487,34,Engineering,Analyst,Technical Degree,126689,8,29,4,4,2,No,2,3,10,4,No
+488,41,R&D,Executive,Other,43613,23,27,2,2,2,No,4,5,23,1,No
+489,50,Support,Manager,Other,43436,11,28,1,1,3,No,6,1,23,2,No
+490,44,R&D,Manager,HR,139710,17,26,1,1,1,No,6,4,19,3,No
+491,57,Sales,Representative,Other,86688,2,19,4,1,1,No,1,4,19,4,No
+492,54,HR,Analyst,Technical Degree,74128,15,16,3,1,1,No,6,3,17,2,No
+493,50,HR,Executive,Life Sciences,53772,9,29,2,3,3,No,6,0,10,4,No
+494,44,HR,Manager,Technical Degree,101266,18,17,2,1,2,No,5,3,12,1,No
+495,32,Support,Technician,Marketing,116784,23,19,2,4,3,No,4,5,12,2,No
+496,37,R&D,Executive,Other,15311,13,7,4,2,3,Yes,3,3,23,4,No
+497,25,R&D,Executive,HR,89606,2,22,3,3,2,Yes,7,0,10,2,Yes
+498,35,Engineering,Manager,Technical Degree,149104,11,24,4,2,4,No,6,1,18,3,No
+499,57,Sales,Manager,Marketing,52886,3,20,2,1,4,No,4,3,15,2,No
+500,37,Support,Analyst,Life Sciences,52921,11,15,2,1,1,No,5,4,10,2,No
+501,25,R&D,Executive,Life Sciences,133547,1,6,1,3,4,Yes,3,2,23,4,Yes
+502,46,R&D,Technician,Marketing,23378,16,1,4,3,1,No,5,5,10,3,No
+503,58,Sales,Manager,Marketing,68665,7,19,3,2,1,No,0,4,22,3,No
+504,54,R&D,Technician,Marketing,76865,5,20,3,2,3,No,7,1,21,3,No
+505,31,HR,Analyst,Other,122713,0,23,2,4,1,Yes,4,1,21,4,Yes
+506,38,Engineering,Manager,HR,32419,22,28,2,4,2,No,4,5,12,2,No
+507,41,Support,Analyst,Technical Degree,73597,20,15,4,2,1,Yes,1,3,23,4,No
+508,30,Engineering,Executive,Life Sciences,35564,20,25,2,1,2,No,4,5,18,3,No
+509,31,R&D,Technician,Other,121330,1,21,3,2,4,Yes,0,5,16,4,No
+510,30,Support,Manager,HR,100358,8,9,1,3,4,Yes,7,2,20,4,No
+511,59,Sales,Manager,Technical Degree,82059,24,25,2,3,1,Yes,5,0,15,1,Yes
+512,50,R&D,Executive,Technical Degree,68045,14,2,4,1,3,No,3,5,14,2,No
+513,53,R&D,Manager,Technical Degree,35678,3,18,1,1,2,No,6,3,14,2,Yes
+514,52,HR,Manager,Other,139450,3,28,1,2,2,No,6,0,18,2,Yes
+515,58,R&D,Manager,HR,102434,6,20,4,4,3,No,0,3,19,2,No
+516,25,Support,Representative,Technical Degree,58086,24,28,2,1,4,No,0,0,13,1,No
+517,55,R&D,Manager,HR,70881,4,2,2,2,2,No,2,1,13,4,No
+518,23,R&D,Executive,Other,113034,22,16,3,1,1,No,0,2,24,4,No
+519,39,Engineering,Analyst,Marketing,112141,16,23,1,1,4,No,4,2,17,3,No
+520,44,HR,Manager,Other,77248,23,19,1,3,4,No,4,3,22,2,No
+521,34,HR,Analyst,HR,55891,20,26,1,2,2,No,4,5,14,4,No
+522,26,Support,Technician,Life Sciences,104093,8,14,1,2,3,No,0,2,14,2,No
+523,28,HR,Executive,Other,103861,20,20,1,4,4,Yes,7,4,14,2,Yes
+524,53,Sales,Analyst,HR,95958,4,13,3,1,3,No,7,5,17,4,No
+525,33,Engineering,Executive,Marketing,24835,7,26,2,1,2,Yes,4,4,21,4,Yes
+526,33,Engineering,Executive,Marketing,78825,5,4,1,4,4,Yes,0,1,17,3,No
+527,57,R&D,Executive,Other,97879,3,8,1,3,4,No,3,4,14,1,No
+528,26,Support,Executive,Other,143258,2,3,2,1,3,No,5,1,24,1,No
+529,56,R&D,Manager,Life Sciences,85951,4,21,4,2,1,No,5,2,18,4,No
+530,56,Sales,Representative,HR,61266,3,7,2,3,2,Yes,1,3,15,2,Yes
+531,44,Sales,Representative,Life Sciences,90032,9,10,1,2,3,No,6,1,10,3,No
+532,27,Engineering,Executive,Marketing,38926,1,25,1,3,2,No,7,0,18,2,Yes
+533,27,R&D,Representative,Technical Degree,27243,1,11,2,3,3,No,4,5,19,2,No
+534,32,HR,Technician,Marketing,106542,24,5,1,2,3,No,3,4,23,4,No
+535,43,Engineering,Analyst,Technical Degree,148134,2,1,4,4,1,Yes,4,0,13,3,No
+536,26,Support,Technician,Technical Degree,129211,1,7,4,2,3,No,0,2,12,2,No
+537,38,HR,Analyst,Technical Degree,93794,0,27,2,4,3,No,4,1,24,2,No
+538,25,Support,Manager,Other,20434,3,16,4,1,1,No,0,5,18,1,No
+539,42,R&D,Analyst,Life Sciences,148376,13,29,2,2,3,No,0,5,10,3,No
+540,21,Support,Technician,HR,75700,20,7,1,3,3,No,4,4,11,3,No
+541,48,R&D,Technician,Marketing,54104,18,11,4,4,1,No,4,2,17,1,No
+542,23,Sales,Executive,Life Sciences,135485,14,5,4,1,3,No,7,0,19,2,No
+543,28,Engineering,Representative,Technical Degree,115764,2,12,2,4,2,Yes,4,1,13,3,Yes
+544,27,Engineering,Manager,Marketing,116198,19,17,3,1,2,Yes,7,0,15,1,Yes
+545,53,Support,Representative,Life Sciences,52496,0,24,1,2,3,No,6,4,21,4,Yes
+546,23,Support,Manager,Technical Degree,148894,15,11,3,2,1,No,2,0,24,4,No
+547,37,Sales,Executive,Other,76137,10,23,3,2,1,No,7,4,17,3,No
+548,44,Engineering,Representative,Technical Degree,86740,22,19,3,4,2,No,3,5,16,1,No
+549,41,Engineering,Analyst,HR,116379,7,9,3,3,4,No,4,1,15,3,No
+550,47,Engineering,Manager,Life Sciences,104099,15,27,3,4,1,No,0,4,12,4,No
+551,52,Sales,Executive,Life Sciences,38258,10,13,3,2,4,No,1,5,10,1,No
+552,36,Sales,Executive,Marketing,55834,13,5,4,4,1,No,4,2,22,4,No
+553,53,Engineering,Executive,HR,63760,23,28,1,2,2,No,2,2,10,4,Yes
+554,33,Support,Representative,Other,142917,17,27,2,3,2,No,4,1,22,1,No
+555,59,Sales,Executive,Life Sciences,111458,10,2,2,3,2,No,0,2,13,1,Yes
+556,40,Sales,Executive,Technical Degree,64455,11,27,3,3,1,No,2,5,20,3,No
+557,49,HR,Representative,Marketing,114187,17,28,1,3,4,No,5,3,24,4,No
+558,55,R&D,Representative,HR,114698,8,25,2,2,2,No,4,1,21,4,No
+559,51,Support,Manager,Marketing,68219,4,8,4,3,4,Yes,7,3,20,3,No
+560,54,Support,Technician,Technical Degree,69423,11,19,1,4,3,No,7,4,13,3,No
+561,41,HR,Analyst,Other,135729,1,16,3,2,3,No,6,0,18,3,Yes
+562,22,Support,Analyst,Technical Degree,90845,4,18,3,3,2,Yes,0,4,19,3,Yes
+563,40,R&D,Manager,HR,35184,10,18,2,1,3,No,4,1,16,4,No
+564,28,Support,Technician,HR,112170,19,19,1,2,4,No,1,1,10,1,No
+565,55,HR,Representative,Technical Degree,94591,19,15,1,4,4,No,2,2,23,1,No
+566,30,HR,Technician,Marketing,83706,6,21,2,3,4,No,1,3,12,1,No
+567,29,Sales,Representative,Other,112889,10,16,1,1,1,No,3,5,24,4,Yes
+568,30,Sales,Executive,Marketing,137456,3,1,1,3,3,Yes,0,1,23,3,No
+569,46,Sales,Technician,Other,59608,18,2,1,4,2,No,4,1,10,1,No
+570,43,HR,Representative,Other,71605,6,28,1,1,4,No,1,2,21,1,No
+571,58,Sales,Analyst,Technical Degree,40581,19,27,4,1,4,No,4,5,19,2,No
+572,37,Sales,Representative,Other,102354,21,17,3,2,4,No,5,5,13,1,No
+573,32,Engineering,Manager,HR,69366,17,6,1,3,1,No,1,2,22,3,No
+574,22,Support,Representative,HR,61218,8,23,3,2,2,Yes,0,4,11,2,Yes
+575,21,Sales,Representative,Life Sciences,109030,23,5,1,4,3,No,6,5,13,2,No
+576,35,HR,Technician,Life Sciences,70101,17,11,2,4,3,Yes,5,5,24,1,No
+577,57,Support,Technician,Life Sciences,77689,16,10,1,3,2,No,2,4,21,3,No
+578,41,HR,Analyst,Life Sciences,74406,21,1,1,2,1,Yes,7,3,11,4,Yes
+579,55,Sales,Manager,Other,49902,22,24,1,1,1,No,1,5,12,3,No
+580,24,Sales,Analyst,Life Sciences,31983,1,15,2,4,3,No,7,1,13,4,No
+581,24,Support,Representative,Life Sciences,126676,22,10,2,4,2,No,0,2,11,4,No
+582,53,HR,Executive,Other,27382,19,15,2,2,2,Yes,5,4,12,4,Yes
+583,25,Sales,Manager,Marketing,58858,5,1,3,3,4,No,0,0,18,3,No
+584,23,Support,Analyst,Other,105111,7,13,3,4,1,No,1,3,10,1,No
+585,36,Support,Manager,Other,32724,18,16,3,3,4,No,3,5,14,2,No
+586,57,Engineering,Technician,Technical Degree,103494,5,10,3,1,2,Yes,0,1,14,2,No
+587,47,Sales,Manager,Other,113963,11,25,3,3,4,No,3,4,24,3,No
+588,24,Sales,Technician,Other,104492,17,8,2,4,4,No,1,2,24,4,No
+589,53,R&D,Executive,Life Sciences,56179,16,4,1,4,3,No,0,5,22,3,No
+590,53,Sales,Manager,Life Sciences,17668,22,16,2,2,2,Yes,7,3,15,2,Yes
+591,52,HR,Technician,Marketing,134792,2,26,1,3,1,No,7,0,17,4,Yes
+592,56,R&D,Analyst,Technical Degree,59083,7,11,4,2,1,No,7,4,17,3,No
+593,30,Engineering,Technician,HR,123675,24,2,2,3,4,Yes,1,0,22,4,No
+594,59,Sales,Technician,Life Sciences,41704,14,29,4,1,1,No,3,1,21,3,No
+595,33,Engineering,Manager,Life Sciences,36925,6,13,4,2,2,No,2,5,23,3,No
+596,52,Support,Analyst,Marketing,120050,7,6,2,2,2,No,2,5,18,2,No
+597,43,Sales,Representative,Marketing,141863,8,18,4,2,3,No,3,0,23,2,No
+598,51,Engineering,Representative,Other,131185,13,10,2,2,4,Yes,4,2,21,2,No
+599,45,HR,Executive,Marketing,116418,7,28,1,1,3,Yes,3,0,21,2,Yes
+600,46,Sales,Technician,Other,48301,15,9,1,3,4,No,2,1,19,3,No
+601,45,R&D,Analyst,Life Sciences,138283,11,16,1,2,3,No,7,5,15,2,No
+602,51,Engineering,Executive,Life Sciences,105159,15,16,4,4,2,No,7,1,19,1,No
+603,49,Support,Technician,Other,38242,3,8,2,1,1,Yes,2,3,15,1,Yes
+604,26,R&D,Executive,Marketing,32463,15,15,2,3,1,Yes,1,4,19,4,Yes
+605,53,Sales,Manager,Life Sciences,132606,23,4,2,1,2,Yes,4,5,13,2,Yes
+606,41,R&D,Technician,Technical Degree,52145,3,19,2,3,1,No,2,2,21,3,Yes
+607,33,Support,Representative,Life Sciences,118395,8,22,4,2,2,No,7,4,18,4,No
+608,41,HR,Analyst,Life Sciences,33718,17,28,4,2,2,No,3,2,20,1,No
+609,58,HR,Representative,Technical Degree,52872,15,10,1,3,2,No,0,0,13,4,No
+610,54,Sales,Representative,Technical Degree,53275,16,9,3,4,4,Yes,1,1,21,3,No
+611,53,Engineering,Analyst,Technical Degree,52949,13,16,2,2,4,No,0,4,22,3,No
+612,39,HR,Executive,Technical Degree,106089,17,21,1,4,3,Yes,3,4,12,2,No
+613,51,HR,Technician,Life Sciences,138442,15,29,4,1,1,No,2,3,15,3,No
+614,36,Support,Executive,Marketing,137894,1,1,1,2,2,No,6,4,20,1,Yes
+615,47,HR,Representative,Marketing,115109,18,7,1,2,3,No,7,4,23,2,No
+616,45,Support,Manager,Marketing,42340,11,8,1,4,3,No,1,2,21,4,No
+617,30,HR,Technician,Technical Degree,144678,1,8,2,1,2,No,7,1,17,2,No
+618,31,R&D,Technician,Marketing,88180,10,14,3,2,2,No,4,5,14,3,No
+619,23,Support,Analyst,HR,88705,10,26,2,2,2,Yes,2,5,23,4,Yes
+620,26,Engineering,Representative,Other,109687,2,1,1,4,3,Yes,3,0,23,3,No
+621,37,Engineering,Technician,HR,118827,24,24,1,2,1,No,3,4,23,2,Yes
+622,39,R&D,Representative,Marketing,143644,5,18,4,4,3,Yes,1,0,14,4,No
+623,27,Engineering,Executive,Technical Degree,93621,8,18,4,3,1,Yes,6,5,16,4,No
+624,37,HR,Analyst,Technical Degree,97358,11,20,4,3,3,Yes,0,3,13,3,No
+625,44,Sales,Representative,HR,115646,20,4,3,4,4,Yes,0,4,24,1,No
+626,30,R&D,Representative,Marketing,49439,18,22,3,1,3,No,2,4,23,2,No
+627,34,Support,Analyst,Life Sciences,56541,19,8,4,2,2,No,1,3,12,2,No
+628,35,HR,Executive,HR,99439,5,15,3,3,4,Yes,0,1,13,1,No
+629,40,Engineering,Manager,HR,23657,21,20,2,1,3,No,3,4,18,2,No
+630,35,Sales,Analyst,Life Sciences,58266,20,18,2,1,2,Yes,3,3,16,1,Yes
+631,49,R&D,Technician,HR,111929,11,10,2,1,1,No,1,3,16,3,No
+632,33,Support,Representative,Life Sciences,146777,13,12,1,4,1,Yes,6,1,15,2,No
+633,37,HR,Executive,HR,85132,0,14,1,3,1,No,7,0,20,3,Yes
+634,35,Support,Manager,HR,68956,19,2,3,2,1,No,5,3,23,2,No
+635,28,Support,Manager,Life Sciences,74450,24,22,4,3,3,No,4,2,23,3,No
+636,47,R&D,Representative,HR,107532,11,3,1,3,3,Yes,7,3,16,3,No
+637,30,Support,Executive,Life Sciences,88504,13,14,1,4,4,Yes,2,2,22,1,No
+638,32,Engineering,Manager,Marketing,18135,12,19,1,4,3,Yes,3,5,20,2,No
+639,51,Sales,Manager,HR,87797,2,3,4,4,4,No,0,4,12,3,No
+640,58,Sales,Executive,Marketing,69008,15,29,2,1,3,Yes,5,2,21,3,Yes
+641,47,Sales,Technician,Other,109608,18,11,2,4,2,No,0,4,15,1,No
+642,56,Engineering,Analyst,Other,133139,23,1,1,2,3,No,5,3,19,4,No
+643,54,Sales,Analyst,Other,144930,23,20,4,2,2,No,6,3,20,1,No
+644,39,R&D,Representative,Life Sciences,97380,12,17,2,3,2,No,1,3,24,4,No
+645,51,HR,Analyst,Life Sciences,63945,23,19,4,3,2,Yes,4,5,24,3,No
+646,33,Sales,Manager,Life Sciences,74932,13,22,3,2,3,No,2,1,22,2,No
+647,38,R&D,Manager,Technical Degree,38822,16,14,1,4,2,Yes,3,2,17,1,No
+648,41,Engineering,Representative,Technical Degree,141351,15,24,4,1,3,No,4,1,16,4,No
+649,58,Support,Analyst,HR,129387,24,11,3,1,4,No,1,3,16,3,No
+650,54,HR,Executive,Marketing,130287,18,16,3,1,2,Yes,6,5,24,4,No
+651,40,Engineering,Technician,Life Sciences,59296,3,5,1,4,2,No,3,3,13,4,No
+652,46,HR,Technician,HR,58499,1,18,4,2,2,Yes,3,1,17,1,Yes
+653,28,HR,Manager,HR,130642,10,8,4,2,4,Yes,6,5,20,3,No
+654,52,HR,Analyst,HR,88514,12,21,2,3,1,No,1,4,10,2,No
+655,42,Support,Analyst,Marketing,110128,16,24,1,2,4,No,3,2,19,4,No
+656,41,Sales,Executive,Technical Degree,81126,12,25,4,3,2,No,7,0,13,1,No
+657,50,HR,Executive,Other,74773,12,27,4,1,4,No,3,2,14,1,No
+658,45,Sales,Technician,HR,100347,23,4,3,1,4,No,0,4,19,3,No
+659,23,Support,Technician,Other,124752,8,5,3,4,4,Yes,2,3,10,3,No
+660,32,Engineering,Technician,Technical Degree,60105,12,27,1,2,4,Yes,7,1,12,3,Yes
+661,27,Sales,Manager,Life Sciences,124234,13,12,1,1,1,No,6,0,16,2,No
+662,49,Engineering,Analyst,HR,47967,11,1,4,2,3,Yes,6,5,18,2,No
+663,22,HR,Representative,Technical Degree,69381,24,9,2,2,1,No,2,2,11,4,No
+664,28,Sales,Manager,Life Sciences,138210,24,25,2,2,2,Yes,6,4,15,4,Yes
+665,44,Support,Technician,Life Sciences,143851,12,11,3,2,1,Yes,3,2,14,4,No
+666,48,R&D,Executive,Marketing,139723,11,3,1,3,3,No,6,0,18,2,No
+667,40,Sales,Executive,Life Sciences,57665,14,21,1,1,3,No,7,2,14,4,No
+668,54,Engineering,Representative,HR,128848,4,6,1,2,3,No,1,4,10,2,No
+669,56,R&D,Executive,HR,141371,10,11,2,2,1,No,7,2,17,4,Yes
+670,26,Engineering,Technician,Marketing,147057,5,1,2,3,2,Yes,5,3,22,4,Yes
+671,58,Sales,Analyst,Life Sciences,17821,3,18,1,4,3,No,5,2,18,1,No
+672,44,Support,Representative,Life Sciences,115573,2,13,2,4,4,Yes,6,2,15,4,No
+673,45,HR,Analyst,Other,149560,14,26,2,2,4,No,1,1,17,3,No
+674,24,HR,Technician,Marketing,118230,0,10,3,3,1,No,5,1,12,4,No
+675,45,Support,Representative,Life Sciences,46478,16,6,3,1,2,No,1,1,13,3,No
+676,49,HR,Representative,HR,117949,10,5,4,3,1,Yes,2,4,16,1,No
+677,43,Sales,Technician,Other,29207,9,6,4,1,4,No,0,2,18,4,No
+678,24,HR,Executive,Life Sciences,79882,19,14,2,1,1,No,1,4,17,1,No
+679,41,Engineering,Executive,Other,99540,13,3,4,3,4,No,7,1,24,4,No
+680,57,R&D,Analyst,HR,76621,18,12,3,1,1,Yes,2,1,19,1,No
+681,49,Sales,Technician,Marketing,109477,17,25,1,2,1,No,3,5,10,4,No
+682,26,Sales,Technician,HR,47430,0,23,2,1,4,Yes,3,5,17,2,Yes
+683,58,Support,Technician,Technical Degree,96839,5,19,3,3,2,No,5,2,18,1,No
+684,58,Sales,Executive,HR,102050,14,26,4,4,2,Yes,4,1,10,1,No
+685,27,HR,Executive,Life Sciences,100562,24,23,2,3,3,Yes,4,4,15,2,Yes
+686,52,Support,Executive,Marketing,54058,3,19,1,4,2,No,6,0,23,4,No
+687,36,R&D,Analyst,HR,56226,2,26,1,2,3,Yes,3,2,15,4,Yes
+688,44,R&D,Technician,Other,49804,23,4,1,1,2,No,6,3,16,3,No
+689,38,Engineering,Executive,Life Sciences,77339,24,24,3,1,2,No,7,4,13,3,No
+690,51,Engineering,Representative,Marketing,94104,4,9,3,1,2,No,5,0,11,2,No
+691,59,Sales,Manager,HR,63942,10,22,2,1,1,No,0,0,14,4,No
+692,52,HR,Technician,Other,70347,15,27,3,2,2,No,2,1,21,2,No
+693,57,Sales,Technician,HR,53665,4,15,4,1,3,Yes,4,0,24,4,No
+694,57,R&D,Executive,HR,44545,8,3,4,3,1,No,3,3,19,2,No
+695,24,R&D,Representative,Marketing,103754,9,11,1,1,1,Yes,2,5,22,2,Yes
+696,30,Support,Representative,Life Sciences,125167,16,12,3,3,3,Yes,2,1,19,2,No
+697,49,Support,Representative,HR,54245,7,28,4,2,2,Yes,0,2,19,3,No
+698,44,Engineering,Executive,HR,131176,10,28,4,3,1,No,1,1,16,3,No
+699,22,Engineering,Manager,Technical Degree,92082,7,17,2,3,3,No,6,0,10,4,Yes
+700,24,Sales,Manager,Technical Degree,37639,18,28,2,4,4,No,0,4,16,1,No
+701,41,Sales,Analyst,Marketing,64409,3,13,4,2,1,No,6,1,22,1,No
+702,45,Engineering,Representative,Technical Degree,16013,5,12,1,2,1,No,2,3,18,4,No
+703,27,HR,Technician,Marketing,20287,6,25,3,3,2,No,6,4,21,4,Yes
+704,27,HR,Technician,Technical Degree,60377,22,20,1,3,3,Yes,2,5,10,1,No
+705,26,Engineering,Analyst,Life Sciences,76352,23,16,4,2,1,No,6,1,13,4,No
+706,43,R&D,Representative,HR,122663,12,14,1,3,4,No,4,3,14,2,No
+707,21,Engineering,Representative,Marketing,33130,3,21,1,2,2,No,6,5,15,4,Yes
+708,43,Engineering,Representative,HR,128288,18,22,2,2,1,Yes,0,2,24,4,Yes
+709,39,R&D,Representative,Technical Degree,46660,12,15,1,2,4,No,6,0,16,3,No
+710,39,Engineering,Technician,Other,33674,21,1,2,4,1,No,2,1,19,1,No
+711,47,Sales,Executive,Marketing,109485,8,3,2,3,1,Yes,2,4,19,4,Yes
+712,41,R&D,Manager,Marketing,119535,24,5,2,1,4,Yes,0,4,16,1,No
+713,49,Engineering,Technician,Marketing,96663,20,14,3,4,3,No,7,1,24,2,No
+714,50,Support,Manager,HR,30620,5,18,3,3,2,No,5,1,13,3,No
+715,56,Sales,Executive,Life Sciences,30571,18,24,4,1,3,No,7,1,10,1,No
+716,52,Engineering,Representative,HR,67658,7,7,2,3,3,Yes,4,1,21,2,Yes
+717,41,HR,Analyst,Other,75831,8,23,3,3,3,No,1,4,19,4,No
+718,40,Engineering,Representative,HR,149812,6,20,3,4,1,Yes,2,5,13,1,No
+719,30,Engineering,Manager,Life Sciences,53674,17,2,1,2,3,No,3,0,23,2,No
+720,44,Sales,Manager,Technical Degree,40999,6,11,3,3,2,No,1,4,12,1,No
+721,26,Engineering,Manager,Technical Degree,142696,15,9,4,2,4,No,7,4,13,3,No
+722,57,R&D,Manager,Marketing,35785,14,26,2,2,3,Yes,7,3,12,1,No
+723,53,Sales,Analyst,Technical Degree,18564,18,27,1,3,1,No,4,5,12,2,Yes
+724,25,HR,Manager,HR,72078,24,24,2,4,4,No,4,0,20,3,No
+725,51,Sales,Representative,Other,69146,0,16,2,4,2,No,5,4,20,1,Yes
+726,25,Engineering,Manager,Marketing,98655,24,15,3,4,2,Yes,5,0,19,1,No
+727,49,HR,Analyst,Marketing,133494,2,10,4,3,4,No,0,5,22,4,No
+728,24,HR,Representative,Marketing,140941,13,23,3,3,4,No,4,2,11,4,No
+729,40,Sales,Analyst,Technical Degree,54101,8,3,1,2,4,Yes,6,0,19,1,Yes
+730,46,Engineering,Executive,Technical Degree,147410,15,8,2,4,3,No,6,4,11,4,No
+731,49,Sales,Executive,HR,100409,18,4,3,2,4,No,4,4,24,2,No
+732,37,R&D,Analyst,Marketing,24401,21,15,2,2,1,No,7,2,19,1,No
+733,56,R&D,Technician,Marketing,141690,10,9,3,4,3,No,4,1,21,4,No
+734,51,Engineering,Representative,Life Sciences,33629,23,6,3,3,2,No,3,0,18,2,No
+735,29,HR,Executive,Life Sciences,94460,8,11,2,2,2,No,3,5,15,2,Yes
+736,47,Support,Analyst,Life Sciences,121749,5,25,3,4,1,No,5,1,20,1,No
+737,49,Support,Manager,Marketing,48674,9,17,2,4,1,Yes,7,5,22,4,Yes
+738,34,Engineering,Analyst,HR,51535,13,24,1,2,2,No,1,3,12,2,No
+739,49,Sales,Analyst,HR,79283,16,27,2,3,4,No,2,4,23,3,No
+740,56,Engineering,Manager,Other,134454,20,27,2,2,3,No,5,4,20,1,No
+741,52,R&D,Executive,Technical Degree,45186,5,11,1,3,2,Yes,6,5,11,4,Yes
+742,50,Support,Executive,Technical Degree,104566,7,26,4,4,2,No,3,0,24,4,No
+743,45,Support,Analyst,Other,76099,23,27,3,3,3,No,5,5,12,3,No
+744,31,Sales,Manager,Life Sciences,30099,10,28,1,4,1,No,0,0,19,2,No
+745,52,Sales,Manager,HR,110968,6,11,4,3,3,No,2,5,11,3,No
+746,35,Engineering,Executive,Other,127391,24,7,4,4,3,No,7,1,12,2,No
+747,41,Sales,Executive,Technical Degree,92710,11,17,1,2,1,No,4,5,19,4,No
+748,33,Support,Executive,Marketing,38808,24,28,1,2,3,No,6,0,20,3,No
+749,33,HR,Manager,HR,36022,22,27,2,2,3,No,1,2,20,1,No
+750,27,HR,Executive,Other,72171,22,17,3,4,3,No,2,3,15,4,No
+751,58,Support,Manager,Marketing,83366,14,5,3,3,2,No,7,5,22,1,No
+752,26,R&D,Manager,Technical Degree,89544,19,13,2,1,3,Yes,7,0,10,2,No
+753,24,HR,Manager,Life Sciences,47893,24,21,3,1,4,No,7,0,22,2,No
+754,57,Support,Executive,Marketing,82603,6,17,1,3,1,Yes,2,3,14,1,Yes
+755,42,Sales,Executive,HR,54835,0,11,3,4,3,Yes,6,0,19,4,No
+756,38,Sales,Representative,Technical Degree,107631,8,10,4,2,3,No,3,4,23,4,No
+757,49,Sales,Technician,Life Sciences,122524,15,2,3,3,2,No,6,0,13,1,No
+758,35,R&D,Executive,Marketing,103112,13,9,2,4,2,No,6,5,16,2,No
+759,25,Sales,Manager,Life Sciences,15168,2,20,2,3,4,No,3,3,22,2,No
+760,49,Sales,Manager,HR,148925,14,7,4,4,2,No,2,5,22,3,No
+761,27,Support,Representative,Other,18208,4,29,1,3,3,No,7,0,13,3,Yes
+762,42,HR,Representative,Life Sciences,149921,12,3,2,3,1,No,3,1,17,3,No
+763,58,R&D,Technician,Marketing,19289,14,18,1,4,4,Yes,3,2,14,1,No
+764,57,HR,Executive,Other,84722,15,15,4,3,3,No,5,0,17,3,No
+765,35,Support,Analyst,Other,29306,10,25,2,1,4,Yes,7,0,15,1,Yes
+766,51,HR,Analyst,HR,27851,10,26,4,2,3,Yes,1,1,10,1,No
+767,44,HR,Technician,HR,107258,16,16,3,1,2,Yes,7,4,23,4,No
+768,39,Support,Representative,Other,113258,18,19,3,3,2,No,3,4,19,1,No
+769,26,Sales,Manager,Marketing,30961,20,21,3,1,3,No,0,0,16,1,No
+770,35,HR,Analyst,Other,146849,8,16,1,3,4,No,2,0,11,2,No
+771,46,Engineering,Manager,Other,58262,10,6,3,2,1,No,3,3,11,3,No
+772,59,HR,Manager,Marketing,57974,8,13,3,1,4,No,5,2,17,3,No
+773,21,Support,Manager,Life Sciences,55091,13,8,4,1,4,Yes,4,4,19,1,No
+774,48,Support,Technician,Technical Degree,77263,3,14,3,3,1,No,1,1,13,4,No
+775,54,R&D,Analyst,HR,39007,10,18,4,1,1,No,3,2,21,2,No
+776,58,Support,Technician,Other,72344,4,7,4,4,3,No,1,1,15,3,No
+777,37,R&D,Technician,Life Sciences,43347,13,8,3,4,4,Yes,2,1,10,1,No
+778,25,R&D,Manager,Marketing,21941,21,24,2,3,2,Yes,5,4,18,4,Yes
+779,31,Support,Representative,HR,64779,24,11,1,1,3,No,6,2,12,2,No
+780,54,Sales,Executive,Life Sciences,105755,11,6,2,4,4,Yes,1,3,10,4,No
+781,55,R&D,Representative,HR,118017,1,21,4,3,2,No,4,0,11,2,No
+782,45,Engineering,Executive,Marketing,62700,5,21,1,2,1,No,3,3,14,3,Yes
+783,25,HR,Manager,Life Sciences,58705,2,24,2,1,4,Yes,2,2,17,3,Yes
+784,25,Support,Representative,Marketing,121307,18,23,3,3,2,Yes,5,5,24,1,Yes
+785,39,R&D,Technician,HR,106960,24,29,1,4,2,No,1,2,13,1,No
+786,43,HR,Manager,Other,127336,13,17,4,1,2,No,6,0,10,2,No
+787,22,Sales,Representative,Life Sciences,137323,4,9,3,1,3,No,3,4,12,1,No
+788,47,R&D,Executive,Technical Degree,125866,0,26,1,2,2,Yes,0,0,14,3,Yes
+789,42,Sales,Technician,Marketing,141425,24,8,1,3,3,Yes,6,5,13,1,No
+790,21,Engineering,Analyst,HR,71249,7,9,3,2,3,No,6,2,14,3,No
+791,24,R&D,Manager,HR,68280,2,25,4,2,1,No,4,4,24,1,No
+792,38,Engineering,Representative,Other,58408,4,26,4,2,2,Yes,5,3,15,1,Yes
+793,49,R&D,Technician,Marketing,46755,6,10,4,1,1,No,1,2,19,2,No
+794,53,HR,Executive,Marketing,116090,16,22,1,1,1,No,2,3,20,3,No
+795,37,Support,Executive,Marketing,111450,22,27,3,1,4,No,2,1,11,2,No
+796,32,Support,Executive,HR,123187,6,24,1,3,3,No,6,0,13,2,No
+797,58,Sales,Analyst,Technical Degree,37597,17,1,1,4,3,No,2,4,16,2,No
+798,38,Engineering,Analyst,Life Sciences,81319,1,20,3,2,4,Yes,5,5,16,2,Yes
+799,33,Support,Technician,Other,44964,0,5,2,1,3,Yes,2,5,10,2,Yes
+800,38,Engineering,Technician,Life Sciences,135559,1,25,3,2,4,No,4,1,19,4,No
+801,21,Sales,Executive,Other,51100,23,2,4,4,3,No,1,2,14,3,No
+802,32,Engineering,Analyst,Life Sciences,34427,14,29,1,1,2,No,4,2,14,2,No
+803,41,Engineering,Technician,Technical Degree,91931,20,6,3,2,3,No,0,4,19,3,No
+804,56,Engineering,Representative,Marketing,133674,0,13,4,3,2,Yes,5,3,24,3,Yes
+805,49,HR,Manager,HR,138623,0,7,2,2,4,Yes,0,4,22,4,Yes
+806,51,HR,Executive,Technical Degree,27972,21,24,3,2,1,Yes,7,5,24,3,Yes
+807,42,Engineering,Executive,Marketing,58995,2,12,2,2,4,Yes,6,2,16,1,Yes
+808,25,HR,Manager,Technical Degree,35725,3,22,4,2,4,No,4,3,11,3,No
+809,36,Engineering,Analyst,Other,56561,12,2,1,3,1,No,7,3,13,4,No
+810,59,Engineering,Manager,Marketing,87068,15,14,4,3,3,No,6,5,15,1,No
+811,22,R&D,Executive,Marketing,52877,5,27,4,1,4,No,1,2,14,1,No
+812,55,Engineering,Manager,Life Sciences,24114,11,27,4,1,3,No,5,1,13,3,No
+813,47,Engineering,Manager,HR,83854,16,7,2,2,2,Yes,3,2,12,4,Yes
+814,32,HR,Analyst,HR,22128,11,12,3,4,4,No,6,3,12,2,No
+815,51,Engineering,Executive,HR,45603,9,12,2,1,3,No,6,5,19,3,No
+816,53,Sales,Technician,Life Sciences,15070,1,17,2,1,1,No,7,4,17,3,Yes
+817,22,R&D,Analyst,HR,26720,11,16,4,3,1,No,3,0,10,3,No
+818,25,Engineering,Manager,Other,73902,20,4,3,2,3,Yes,1,3,18,1,No
+819,46,Support,Representative,Other,129846,15,23,3,1,2,Yes,1,0,22,2,No
+820,59,Engineering,Technician,Other,119574,22,7,1,1,1,Yes,1,2,16,4,Yes
+821,21,Engineering,Executive,Marketing,28342,3,10,4,3,4,No,7,5,14,4,No
+822,46,R&D,Executive,HR,19703,0,25,3,3,1,Yes,4,5,14,4,Yes
+823,26,Engineering,Executive,Technical Degree,60641,13,20,4,3,1,Yes,2,0,15,1,Yes
+824,46,R&D,Analyst,Technical Degree,103054,4,12,1,2,2,Yes,3,0,14,2,Yes
+825,45,Sales,Manager,Marketing,115808,14,27,3,3,1,No,1,4,23,1,No
+826,24,R&D,Manager,HR,126122,22,12,3,4,2,No,4,2,24,2,No
+827,47,Engineering,Analyst,Other,61197,8,17,3,2,4,No,3,2,15,4,No
+828,55,Support,Analyst,HR,37680,13,8,1,2,4,No,6,5,23,2,No
+829,54,HR,Executive,Other,18556,17,6,2,1,4,Yes,0,5,22,1,No
+830,22,Support,Executive,Other,34826,3,15,2,3,2,No,7,5,11,3,No
+831,30,Engineering,Technician,Life Sciences,23796,22,17,3,1,1,Yes,0,4,17,4,No
+832,30,HR,Representative,Other,131208,5,24,1,1,4,Yes,3,5,19,3,Yes
+833,38,Support,Representative,Other,51235,20,12,2,3,2,No,2,4,16,4,No
+834,26,HR,Representative,Technical Degree,126121,16,26,3,1,3,Yes,5,5,16,3,No
+835,54,HR,Analyst,HR,89676,3,18,1,4,1,Yes,5,3,17,3,Yes
+836,51,Engineering,Representative,HR,87757,18,3,4,2,3,No,1,0,20,4,No
+837,52,Engineering,Representative,HR,76397,4,22,3,2,3,No,3,4,14,2,No
+838,28,HR,Representative,Other,125591,14,17,1,3,4,Yes,4,5,18,2,No
+839,21,HR,Executive,Life Sciences,20865,23,12,1,3,1,No,3,1,13,3,No
+840,56,Support,Executive,Life Sciences,27522,23,14,4,2,2,No,0,2,23,3,No
+841,32,Sales,Analyst,Marketing,72157,21,9,2,4,4,Yes,1,3,11,2,No
+842,46,Sales,Analyst,Technical Degree,68255,12,18,4,4,2,Yes,4,3,11,2,No
+843,56,HR,Representative,Other,88655,13,17,2,1,3,No,2,4,10,1,No
+844,22,Sales,Manager,HR,114602,7,13,2,3,1,No,4,2,15,3,Yes
+845,21,R&D,Representative,Life Sciences,94318,23,9,2,2,3,No,1,5,19,1,No
+846,21,HR,Representative,HR,49756,11,12,3,4,2,No,5,4,24,2,No
+847,27,HR,Representative,Technical Degree,59184,19,15,1,2,3,Yes,1,5,16,2,No
+848,23,R&D,Executive,Marketing,116564,8,14,2,2,4,No,5,3,12,4,No
+849,52,R&D,Manager,HR,42198,18,9,2,3,3,No,6,0,15,2,No
+850,44,Engineering,Manager,Marketing,83064,5,17,1,4,2,Yes,2,5,11,1,Yes
+851,59,Support,Technician,HR,87736,18,7,2,1,1,No,1,0,17,3,No
+852,52,Engineering,Technician,Life Sciences,116285,1,15,3,3,2,Yes,0,1,20,1,Yes
+853,58,HR,Analyst,Marketing,111437,2,4,3,2,4,No,2,1,10,2,No
+854,30,Sales,Executive,Technical Degree,77731,8,14,1,3,1,No,0,1,21,2,No
+855,32,R&D,Analyst,HR,56737,12,23,4,3,3,No,7,4,13,1,No
+856,54,HR,Technician,Other,64667,17,24,4,4,2,No,7,2,20,4,No
+857,30,R&D,Analyst,Marketing,70564,8,21,3,4,2,No,7,1,22,2,No
+858,23,Engineering,Manager,Other,44590,0,22,4,3,3,Yes,7,0,21,3,Yes
+859,47,R&D,Analyst,Other,99429,8,2,2,3,2,No,4,1,20,4,No
+860,52,Support,Technician,Marketing,43131,10,10,4,4,2,No,2,4,20,2,No
+861,58,R&D,Analyst,Life Sciences,102571,13,19,3,1,3,Yes,3,4,12,4,No
+862,57,HR,Representative,Marketing,116451,16,24,3,3,4,No,2,1,12,2,No
+863,25,Engineering,Manager,HR,144848,6,17,1,4,4,Yes,6,0,15,4,Yes
+864,51,R&D,Technician,HR,31052,15,25,3,1,3,No,3,3,19,2,No
+865,53,Engineering,Representative,HR,117563,15,8,4,4,3,No,3,4,19,1,No
+866,48,HR,Manager,HR,26607,19,5,4,3,4,No,5,0,21,4,No
+867,52,Engineering,Manager,Life Sciences,60528,13,3,2,2,2,No,2,4,14,4,Yes
+868,53,HR,Executive,Technical Degree,38799,20,17,1,2,2,Yes,2,1,22,4,Yes
+869,38,Support,Manager,Other,36908,5,20,3,2,2,No,1,1,16,1,Yes
+870,22,Engineering,Executive,Marketing,38671,17,9,1,4,3,Yes,0,3,13,4,No
+871,38,Sales,Technician,Other,20931,1,23,1,4,3,Yes,0,0,21,2,Yes
+872,28,HR,Executive,Life Sciences,126119,2,22,3,4,1,No,3,1,11,4,No
+873,25,Support,Technician,Other,23252,21,11,4,3,4,No,7,0,16,4,No
+874,25,R&D,Analyst,HR,68798,11,7,2,1,2,No,2,1,21,1,No
+875,48,HR,Representative,HR,109386,15,22,2,4,4,Yes,5,4,21,2,No
+876,40,Engineering,Manager,HR,148702,15,20,2,1,3,No,2,1,13,2,No
+877,42,R&D,Manager,Other,130250,17,5,2,1,4,Yes,2,0,12,2,No
+878,50,HR,Manager,Marketing,33523,6,8,1,1,3,Yes,1,1,10,3,No
+879,42,HR,Analyst,Life Sciences,148344,4,15,3,4,3,No,4,0,11,2,No
+880,45,Sales,Manager,Other,103227,1,15,3,2,1,Yes,5,3,22,3,Yes
+881,24,Sales,Executive,Life Sciences,39241,21,5,2,1,2,Yes,2,5,21,3,Yes
+882,54,HR,Representative,HR,75578,5,28,2,1,4,No,4,1,17,1,Yes
+883,38,Sales,Technician,Marketing,138914,14,12,4,2,2,No,3,4,18,1,No
+884,27,Support,Executive,Other,68043,11,12,1,3,1,Yes,2,2,14,3,Yes
+885,52,HR,Technician,Other,39791,4,2,1,4,1,No,5,0,12,1,No
+886,49,Engineering,Manager,Technical Degree,133136,10,26,1,3,3,Yes,4,4,10,1,Yes
+887,23,R&D,Executive,Technical Degree,143651,2,7,4,3,3,No,0,1,20,3,No
+888,28,R&D,Analyst,Technical Degree,146705,4,29,2,4,4,Yes,3,3,10,2,Yes
+889,21,HR,Technician,Technical Degree,144020,3,15,1,4,4,Yes,3,3,11,1,No
+890,31,Engineering,Executive,Other,132835,20,26,4,2,3,No,6,3,21,2,No
+891,24,R&D,Manager,Marketing,76356,14,6,1,4,3,Yes,2,0,18,3,No
+892,48,R&D,Representative,Other,40960,23,5,2,3,4,Yes,7,1,17,4,No
+893,41,Sales,Manager,HR,98316,10,24,1,4,1,Yes,4,4,13,4,Yes
+894,59,HR,Executive,Other,44807,5,24,3,1,3,No,1,5,12,3,No
+895,50,Engineering,Analyst,HR,78875,15,16,3,1,2,No,3,0,16,4,No
+896,44,HR,Technician,Other,103569,23,1,4,4,4,No,7,2,15,3,No
+897,40,R&D,Representative,Technical Degree,142788,13,28,2,3,4,No,2,5,18,2,No
+898,23,R&D,Technician,Technical Degree,54026,0,12,2,1,3,No,5,1,12,4,Yes
+899,23,R&D,Executive,Marketing,49008,7,28,4,4,3,No,6,2,13,2,No
+900,45,R&D,Representative,Marketing,114187,23,26,4,1,3,No,5,5,11,4,No
+901,21,R&D,Technician,Life Sciences,15872,12,25,1,3,3,No,0,5,16,4,No
+902,22,Support,Technician,Marketing,91466,23,20,3,1,1,No,2,3,14,2,No
+903,29,R&D,Representative,Other,115698,12,20,4,1,2,No,2,4,13,3,No
+904,55,R&D,Technician,Other,89372,0,16,3,4,3,Yes,2,3,18,4,Yes
+905,38,Engineering,Manager,HR,66833,21,1,3,4,3,No,7,1,17,4,No
+906,48,Support,Analyst,Marketing,126853,19,12,1,1,1,Yes,0,5,13,1,Yes
+907,37,HR,Analyst,Technical Degree,65089,17,22,1,1,4,No,4,0,20,4,No
+908,27,Engineering,Analyst,HR,110921,24,24,1,3,4,Yes,7,0,15,3,Yes
+909,35,Sales,Technician,Life Sciences,77659,4,17,1,1,3,Yes,7,3,15,1,Yes
+910,24,HR,Technician,Other,18587,22,21,4,3,1,No,4,5,17,1,No
+911,51,Sales,Executive,Other,86619,5,1,3,4,4,No,7,4,12,3,No
+912,28,Sales,Analyst,Other,21676,24,14,4,4,1,No,3,4,16,2,No
+913,35,HR,Executive,Life Sciences,140679,4,15,2,1,2,No,4,2,18,1,Yes
+914,59,R&D,Analyst,Other,96210,13,26,4,1,4,No,4,2,11,3,No
+915,44,Sales,Analyst,HR,65224,19,10,1,3,3,No,0,2,18,3,No
+916,38,Sales,Manager,Technical Degree,80635,1,7,4,1,1,No,0,1,10,1,No
+917,42,Engineering,Representative,Life Sciences,98589,1,11,1,3,1,No,7,2,19,2,Yes
+918,51,HR,Manager,Technical Degree,50124,21,5,1,2,2,No,1,0,10,2,No
+919,30,R&D,Executive,Marketing,53933,1,17,1,3,3,No,2,1,12,4,No
+920,45,Support,Manager,Other,71518,15,19,4,1,3,No,4,5,15,3,No
+921,55,R&D,Technician,Marketing,49907,23,24,2,4,1,No,4,4,19,1,No
+922,43,Support,Executive,Marketing,117317,15,29,2,3,1,No,4,0,20,3,No
+923,38,R&D,Analyst,Other,29015,12,3,2,1,3,No,7,1,17,4,No
+924,26,Sales,Analyst,Life Sciences,126592,10,8,4,2,1,No,6,1,11,1,No
+925,30,Sales,Representative,Other,62051,15,9,2,1,1,No,7,1,15,4,No
+926,57,R&D,Executive,Other,90765,14,8,1,2,2,No,5,4,21,1,No
+927,42,Sales,Executive,Marketing,36297,12,24,2,2,3,No,7,5,11,3,No
+928,32,Sales,Analyst,HR,67024,3,5,2,1,1,No,4,4,20,2,No
+929,37,R&D,Executive,HR,116870,16,1,3,3,1,No,4,2,15,3,No
+930,43,Support,Technician,Technical Degree,51544,18,25,4,3,1,No,6,0,10,4,No
+931,41,R&D,Manager,HR,32857,17,28,1,1,2,Yes,6,0,20,4,Yes
+932,48,R&D,Analyst,Life Sciences,85458,1,7,4,1,1,No,0,4,10,4,No
+933,31,Support,Executive,Technical Degree,36936,17,10,1,1,1,No,7,4,15,4,No
+934,46,R&D,Technician,Technical Degree,57491,18,15,3,3,2,No,5,3,12,2,No
+935,38,Support,Analyst,Technical Degree,75812,4,16,2,2,1,Yes,7,3,18,2,Yes
+936,57,Engineering,Executive,Other,91152,21,29,2,1,2,No,5,5,10,3,Yes
+937,27,Support,Manager,Other,101315,13,12,2,1,3,No,7,4,11,1,No
+938,26,HR,Executive,HR,106348,11,1,2,4,1,Yes,2,0,17,3,No
+939,39,HR,Executive,Technical Degree,128978,18,13,4,2,3,No,1,2,24,3,No
+940,40,R&D,Technician,Technical Degree,23920,12,17,4,3,3,No,1,0,10,4,No
+941,47,HR,Analyst,Life Sciences,63913,13,15,4,2,3,No,2,2,16,1,No
+942,36,Engineering,Representative,Technical Degree,15144,7,15,2,1,3,Yes,1,3,22,1,Yes
+943,56,Support,Manager,Marketing,16274,23,27,3,2,4,Yes,3,1,14,1,No
+944,39,Sales,Technician,Other,43657,24,24,2,1,1,No,1,0,17,3,No
+945,26,Sales,Technician,HR,95749,3,8,4,3,1,Yes,1,2,22,3,Yes
+946,25,Sales,Technician,Other,135759,18,11,3,2,2,No,4,3,20,3,No
+947,58,Engineering,Representative,Other,119428,0,20,2,2,3,No,6,4,14,1,Yes
+948,26,Sales,Technician,Technical Degree,102249,9,12,2,1,4,Yes,1,0,21,2,No
+949,57,Support,Technician,Technical Degree,120052,24,13,2,4,4,No,4,1,20,2,No
+950,31,R&D,Technician,HR,38214,4,5,3,1,3,No,5,4,17,1,No
+951,24,R&D,Analyst,Technical Degree,128377,9,8,3,3,2,No,5,4,16,4,No
+952,32,Support,Technician,Marketing,135185,5,22,2,4,2,No,0,5,23,1,No
+953,44,Engineering,Representative,HR,27832,18,25,4,3,1,No,5,4,23,3,Yes
+954,37,HR,Technician,Technical Degree,78444,11,23,4,3,2,Yes,0,5,24,2,No
+955,51,Support,Technician,Other,127055,14,9,2,4,3,Yes,1,3,20,4,No
+956,44,Engineering,Executive,Marketing,79272,23,4,4,1,1,No,2,5,15,3,No
+957,36,Engineering,Analyst,Technical Degree,128463,13,5,1,4,4,No,6,2,11,2,No
+958,45,R&D,Executive,Technical Degree,141298,18,12,4,3,4,Yes,1,5,11,3,No
+959,58,Support,Executive,Other,79079,2,16,2,2,2,Yes,6,2,24,1,Yes
+960,37,Engineering,Manager,Technical Degree,23030,5,26,3,2,4,No,7,2,15,1,No
+961,26,Support,Analyst,Life Sciences,60907,23,27,2,3,1,Yes,7,4,11,2,Yes
+962,36,Support,Analyst,Marketing,44049,21,1,2,4,4,No,2,2,13,4,No
+963,53,HR,Representative,Other,79005,16,21,2,3,4,No,0,0,10,4,No
+964,29,R&D,Technician,Marketing,94079,9,9,3,1,1,No,1,5,17,2,No
+965,58,Support,Analyst,Marketing,77626,4,6,1,2,3,Yes,6,2,18,2,Yes
+966,43,Support,Manager,Life Sciences,41390,21,17,4,3,2,Yes,1,5,15,4,Yes
+967,44,Sales,Technician,HR,55657,19,1,4,2,4,No,5,2,21,3,No
+968,33,Engineering,Manager,Life Sciences,106736,6,10,3,4,1,No,2,5,17,1,No
+969,56,Engineering,Representative,Marketing,18642,14,17,3,3,1,Yes,6,3,24,1,Yes
+970,22,Engineering,Technician,HR,43902,15,8,3,1,2,No,4,4,21,4,No
+971,32,Support,Technician,Other,135466,11,18,1,3,1,No,4,4,11,4,No
+972,37,R&D,Manager,Marketing,28386,23,14,3,1,2,Yes,6,1,14,4,Yes
+973,39,Support,Technician,Marketing,70990,3,24,1,2,3,No,7,4,21,1,No
+974,39,Engineering,Representative,Life Sciences,42942,6,6,3,2,3,Yes,2,5,18,4,No
+975,26,Sales,Executive,Technical Degree,29127,2,2,2,4,3,No,4,3,21,1,No
+976,29,HR,Executive,Other,72069,17,16,3,4,1,Yes,5,5,15,4,No
+977,24,Sales,Analyst,Marketing,85394,16,8,4,2,1,No,6,5,10,4,No
+978,43,Support,Manager,Marketing,38778,24,21,1,3,4,No,3,3,21,2,No
+979,34,Engineering,Technician,Marketing,25502,13,3,3,3,2,No,2,2,21,1,No
+980,43,Support,Analyst,Other,33183,3,17,2,3,1,No,6,5,19,3,No
+981,43,Engineering,Representative,Technical Degree,102958,11,29,2,3,2,No,7,1,16,1,No
+982,48,R&D,Manager,HR,131138,2,3,3,4,1,No,4,3,10,3,No
+983,42,HR,Manager,HR,39339,16,9,4,4,2,No,0,4,20,2,No
+984,46,Support,Executive,HR,58253,16,25,1,4,4,Yes,2,5,19,2,No
+985,43,Sales,Manager,Technical Degree,61415,21,16,4,1,2,No,3,1,20,4,No
+986,46,Support,Manager,Technical Degree,63702,8,6,4,2,3,Yes,5,0,12,4,No
+987,45,HR,Technician,Technical Degree,47980,7,7,3,2,2,No,5,2,20,2,No
+988,33,HR,Manager,Life Sciences,22461,1,23,3,3,2,No,6,5,20,2,Yes
+989,30,Engineering,Manager,Technical Degree,85896,10,25,2,3,3,No,0,3,22,4,No
+990,51,Sales,Manager,Other,63244,11,11,1,3,3,No,3,0,18,2,No
+991,34,Sales,Analyst,Life Sciences,61204,18,14,3,2,2,No,5,0,20,1,No
+992,42,Sales,Technician,Other,50748,18,23,4,2,1,Yes,7,2,16,4,No
+993,28,Engineering,Representative,Technical Degree,140460,3,6,1,2,4,Yes,1,2,20,4,No
+994,37,Sales,Executive,Marketing,97415,7,6,3,4,1,No,7,0,20,2,No
+995,41,Engineering,Representative,Life Sciences,71523,12,23,3,2,4,Yes,0,2,21,1,Yes
+996,45,Sales,Manager,HR,42727,8,6,4,1,2,Yes,1,2,22,1,No
+997,41,Engineering,Representative,Life Sciences,123151,0,23,2,4,4,No,6,1,10,3,No
+998,35,Support,Executive,Technical Degree,134929,21,15,2,1,2,No,6,1,21,2,No
+999,58,HR,Technician,Life Sciences,19363,18,29,2,3,3,No,7,3,21,3,Yes
+1000,40,R&D,Representative,Other,140504,13,1,4,4,3,No,4,5,18,4,No
+1001,52,HR,Executive,Life Sciences,109421,7,28,4,2,2,No,4,5,17,1,No
+1002,49,Engineering,Technician,Other,28477,21,7,2,2,1,Yes,4,3,20,4,No
+1003,42,Engineering,Executive,Technical Degree,116676,0,2,4,2,3,No,4,0,16,1,No
+1004,55,Engineering,Representative,Life Sciences,29499,11,21,3,1,3,No,4,5,16,1,No
+1005,26,HR,Technician,HR,21866,20,16,2,1,2,No,2,5,22,3,Yes
+1006,56,Engineering,Representative,Other,30569,23,25,1,1,4,No,6,1,21,3,No
+1007,54,R&D,Representative,Marketing,77077,6,4,3,2,3,No,2,2,13,4,No
+1008,40,R&D,Manager,Other,98641,16,3,3,3,1,Yes,4,0,22,3,Yes
+1009,49,Support,Analyst,HR,69988,4,17,4,1,4,No,5,4,14,2,No
+1010,41,HR,Technician,HR,31465,2,26,3,4,1,Yes,4,4,12,3,No
+1011,31,Support,Executive,Marketing,41887,8,12,1,3,3,No,4,0,23,4,No
+1012,52,Engineering,Manager,Life Sciences,130071,22,24,3,1,2,Yes,0,4,13,3,No
+1013,30,HR,Executive,Technical Degree,144954,17,27,3,4,3,Yes,2,2,13,2,No
+1014,33,HR,Representative,Other,116826,12,26,2,1,4,No,3,3,14,4,No
+1015,41,Engineering,Manager,Technical Degree,28960,7,15,2,3,3,No,3,1,17,2,No
+1016,53,Sales,Analyst,HR,125674,3,21,4,2,3,No,7,4,12,2,No
+1017,35,HR,Analyst,HR,108418,6,16,3,3,4,Yes,7,2,12,2,No
+1018,40,Engineering,Manager,Marketing,86018,3,20,3,4,3,No,5,5,15,2,No
+1019,22,Sales,Technician,Life Sciences,34337,4,17,2,4,4,Yes,2,0,13,1,No
+1020,25,Sales,Representative,Other,149551,17,16,2,2,2,Yes,0,3,12,3,Yes
+1021,23,Sales,Analyst,HR,74751,3,13,3,3,1,No,6,1,23,3,No
+1022,23,HR,Representative,Technical Degree,20963,1,19,4,4,1,Yes,7,5,18,2,Yes
+1023,54,R&D,Executive,Technical Degree,43345,13,22,3,3,3,No,3,3,10,4,No
+1024,53,HR,Representative,Other,69170,7,27,3,4,3,Yes,6,4,11,2,Yes
+1025,53,Sales,Executive,HR,23414,11,18,1,2,1,Yes,7,0,22,2,Yes
+1026,23,R&D,Executive,HR,58731,3,3,4,2,1,No,4,4,14,1,No
+1027,24,Sales,Executive,HR,78234,5,18,1,3,4,Yes,1,0,12,4,No
+1028,31,Support,Manager,Marketing,143067,11,10,4,4,3,No,0,2,19,1,No
+1029,43,HR,Representative,HR,26660,17,1,2,4,4,No,6,1,22,1,No
+1030,34,Sales,Manager,Other,92876,10,3,4,3,1,Yes,4,0,15,4,No
+1031,40,HR,Technician,Marketing,138627,13,18,4,3,1,No,1,3,21,3,No
+1032,27,Support,Analyst,Technical Degree,123835,13,28,4,3,2,Yes,0,1,16,1,No
+1033,49,Support,Executive,HR,139867,6,15,4,2,4,No,7,3,11,2,No
+1034,33,Support,Analyst,Technical Degree,37996,6,13,3,2,3,Yes,2,4,21,3,No
+1035,23,HR,Manager,Other,123181,10,3,4,2,4,No,2,1,23,1,No
+1036,49,R&D,Manager,Technical Degree,147115,0,20,1,4,2,No,5,4,24,4,Yes
+1037,56,R&D,Analyst,Marketing,59014,17,2,1,3,2,No,2,1,11,3,No
+1038,21,R&D,Technician,Life Sciences,82316,15,25,3,4,3,No,7,1,18,1,No
+1039,38,Support,Analyst,Other,86663,7,24,4,1,4,No,5,3,19,3,No
+1040,53,Sales,Manager,HR,81645,9,29,4,4,2,No,2,3,11,1,No
+1041,48,Support,Technician,Technical Degree,54120,8,9,3,3,3,No,2,3,24,3,No
+1042,54,Support,Technician,Technical Degree,146069,16,5,3,4,4,No,6,1,11,2,No
+1043,37,Support,Manager,Technical Degree,144127,18,9,3,2,2,No,4,3,14,1,No
+1044,35,Engineering,Representative,Other,66398,2,24,4,2,4,No,7,1,24,3,No
+1045,48,Support,Representative,HR,123714,10,7,4,1,3,Yes,2,1,18,2,No
+1046,26,Sales,Technician,Other,68665,0,26,1,4,4,No,0,5,20,2,No
+1047,30,Support,Manager,Other,122299,11,5,3,3,2,No,7,0,17,4,No
+1048,44,HR,Manager,HR,93941,6,2,2,4,3,No,1,2,21,3,No
+1049,47,Support,Analyst,Technical Degree,78472,8,7,4,1,2,Yes,6,2,11,2,Yes
+1050,25,Sales,Executive,Marketing,32287,11,22,3,1,3,No,5,1,20,1,No
+1051,40,Support,Manager,HR,103369,8,18,4,4,2,Yes,1,4,10,3,No
+1052,35,HR,Executive,HR,58346,9,11,2,1,3,No,6,2,12,1,No
+1053,40,Sales,Executive,Technical Degree,44275,19,20,3,3,4,No,0,4,17,4,No
+1054,58,HR,Technician,Life Sciences,41083,20,19,1,2,2,Yes,3,2,16,1,Yes
+1055,23,Sales,Executive,Other,147553,0,17,4,4,2,No,2,5,12,3,No
+1056,59,Sales,Analyst,Other,28943,9,15,1,4,2,Yes,5,4,21,2,Yes
+1057,38,HR,Analyst,Marketing,122800,21,3,2,4,3,No,4,1,14,3,No
+1058,51,Support,Executive,Technical Degree,131929,13,8,4,2,3,No,4,5,22,2,No
+1059,37,Sales,Representative,Life Sciences,19192,5,16,4,3,3,No,3,5,10,1,No
+1060,33,R&D,Representative,Other,94559,14,4,2,3,1,No,5,3,13,4,No
+1061,51,R&D,Technician,Marketing,92949,3,14,2,4,1,Yes,1,0,14,4,Yes
+1062,47,HR,Technician,Marketing,63420,0,4,1,1,1,No,5,3,18,1,Yes
+1063,26,Sales,Manager,Technical Degree,105006,15,23,4,4,4,No,0,4,16,1,No
+1064,48,Engineering,Representative,Marketing,70170,12,3,1,2,4,Yes,0,2,12,3,Yes
+1065,50,HR,Technician,HR,74358,18,3,1,1,1,No,5,0,18,4,No
+1066,36,Support,Analyst,Other,73255,8,19,2,3,1,No,1,3,24,3,No
+1067,57,R&D,Technician,Other,123091,21,7,1,4,4,No,6,4,12,1,No
+1068,45,HR,Representative,Technical Degree,100475,10,11,1,1,3,No,1,1,13,3,No
+1069,34,Sales,Technician,Life Sciences,66171,18,10,3,1,2,No,1,2,17,2,No
+1070,21,Support,Executive,Other,140113,2,7,3,4,3,No,7,0,20,3,No
+1071,47,Support,Manager,Marketing,123277,2,23,2,4,1,Yes,1,4,12,2,Yes
+1072,29,R&D,Executive,Other,140925,19,21,4,1,1,No,7,5,13,1,No
+1073,50,HR,Manager,Marketing,113617,20,7,3,4,2,No,2,4,13,1,No
+1074,41,Support,Representative,Technical Degree,67851,23,20,1,4,4,Yes,6,2,19,3,No
+1075,39,R&D,Executive,Technical Degree,119347,8,21,3,4,4,No,7,0,11,3,No
+1076,27,R&D,Representative,Technical Degree,59450,0,16,3,1,1,Yes,0,2,19,2,Yes
+1077,48,R&D,Manager,Life Sciences,51575,24,17,4,3,3,No,2,5,16,1,No
+1078,27,Engineering,Analyst,Technical Degree,75891,15,28,1,4,4,No,4,0,14,4,No
+1079,37,R&D,Analyst,Technical Degree,145856,6,14,1,4,4,No,6,1,22,1,No
+1080,53,Sales,Executive,Other,91671,19,12,2,3,4,Yes,1,5,22,1,No
+1081,56,Sales,Executive,Technical Degree,66798,22,16,2,1,1,No,1,3,22,2,Yes
+1082,59,Support,Manager,Other,77345,7,25,4,1,1,No,2,1,23,3,No
+1083,58,Support,Executive,Marketing,54314,19,21,3,2,1,No,1,0,13,4,No
+1084,42,Support,Technician,Marketing,103931,19,3,3,1,1,No,2,2,22,3,No
+1085,28,R&D,Analyst,Life Sciences,62307,12,14,3,1,1,No,1,3,12,4,No
+1086,53,HR,Representative,HR,89843,15,22,4,1,2,No,6,5,14,3,No
+1087,52,HR,Representative,Life Sciences,64925,6,7,2,4,3,No,6,5,18,4,No
+1088,59,HR,Manager,Marketing,58296,23,29,1,3,2,No,1,2,21,1,No
+1089,46,Sales,Representative,Other,145981,24,24,1,3,2,Yes,4,2,18,1,Yes
+1090,26,HR,Executive,HR,61673,24,25,2,4,1,No,5,5,18,3,No
+1091,40,Sales,Analyst,Technical Degree,24520,18,3,3,2,1,No,5,4,15,4,No
+1092,38,R&D,Technician,Other,66110,1,17,2,2,4,No,7,1,18,3,Yes
+1093,53,R&D,Analyst,HR,86839,9,16,2,1,3,No,5,4,17,2,Yes
+1094,36,Engineering,Technician,Other,27776,11,19,2,2,1,No,5,4,17,2,Yes
+1095,33,Support,Representative,HR,56267,23,25,4,1,4,Yes,0,1,18,1,No
+1096,24,Engineering,Analyst,Technical Degree,37418,13,11,4,3,4,No,0,5,19,2,No
+1097,53,HR,Manager,Life Sciences,82587,13,16,1,4,4,No,4,1,14,3,No
+1098,50,HR,Analyst,Marketing,112620,3,20,1,3,1,No,7,3,12,1,Yes
+1099,22,HR,Representative,HR,145744,19,22,1,2,3,No,3,2,14,2,No
+1100,37,Sales,Representative,Marketing,67528,8,23,4,3,4,No,5,4,16,2,No
+1101,39,Support,Representative,HR,131539,2,10,2,4,4,No,1,5,12,2,No
+1102,39,Support,Manager,Life Sciences,43962,24,29,4,2,1,No,3,2,12,4,No
+1103,56,R&D,Manager,Life Sciences,120367,4,1,3,2,4,No,6,2,24,4,No
+1104,26,Sales,Analyst,Marketing,90960,0,15,3,3,2,No,5,4,14,2,Yes
+1105,32,Sales,Analyst,Marketing,117353,1,18,2,1,2,Yes,0,5,21,4,Yes
+1106,28,Engineering,Technician,Other,116997,11,2,2,4,3,No,7,5,11,3,No
+1107,30,Sales,Representative,Marketing,86878,2,14,1,2,4,No,7,4,24,4,No
+1108,56,Sales,Analyst,Technical Degree,49752,21,18,3,2,1,No,3,4,13,3,No
+1109,57,Engineering,Manager,Technical Degree,86034,12,18,2,3,3,No,2,4,15,3,No
+1110,22,Sales,Representative,Marketing,126616,8,4,2,1,4,No,4,5,21,3,No
+1111,45,Sales,Analyst,Other,146038,0,9,1,1,3,No,6,0,13,2,Yes
+1112,30,Sales,Technician,HR,140213,11,8,4,1,2,No,3,3,18,3,No
+1113,28,Engineering,Executive,Life Sciences,39498,3,19,4,2,1,No,0,0,21,3,No
+1114,32,R&D,Analyst,Marketing,95648,24,10,2,3,3,Yes,0,3,10,3,No
+1115,28,R&D,Analyst,Life Sciences,29120,7,17,3,1,3,No,6,2,10,1,No
+1116,40,Engineering,Executive,Marketing,105307,11,22,4,2,3,No,6,1,21,3,No
+1117,59,Sales,Manager,HR,148965,0,24,3,4,4,No,6,5,13,3,No
+1118,43,HR,Technician,Other,22097,3,6,3,4,3,Yes,1,4,23,1,No
+1119,49,HR,Executive,Technical Degree,103637,5,27,2,1,3,No,1,3,23,4,No
+1120,40,Engineering,Executive,Life Sciences,142645,1,5,3,3,1,No,3,5,23,4,No
+1121,21,Engineering,Executive,Life Sciences,129369,18,1,3,1,3,No,1,0,24,3,No
+1122,24,Engineering,Executive,Technical Degree,67985,23,2,3,3,1,Yes,3,3,22,4,No
+1123,31,R&D,Analyst,Marketing,29029,24,6,3,4,3,No,4,0,15,4,No
+1124,30,Sales,Analyst,Technical Degree,139726,6,26,3,4,1,No,2,1,24,2,No
+1125,53,HR,Technician,Life Sciences,139378,19,7,1,1,4,Yes,0,1,15,4,No
+1126,53,Sales,Analyst,Marketing,93161,12,21,4,2,2,Yes,3,3,18,4,Yes
+1127,54,HR,Analyst,Technical Degree,147150,1,13,4,4,2,Yes,5,3,10,1,Yes
+1128,45,Engineering,Representative,Marketing,15623,2,2,1,4,1,No,4,4,24,4,No
+1129,42,Support,Manager,Marketing,98242,13,13,2,2,1,Yes,2,2,18,1,Yes
+1130,46,Engineering,Technician,Marketing,20203,10,1,4,1,4,No,2,5,24,2,No
+1131,36,Support,Executive,Life Sciences,141318,0,14,2,2,2,No,4,2,15,4,Yes
+1132,47,HR,Representative,Marketing,106856,23,17,4,3,3,No,1,0,14,3,No
+1133,51,HR,Manager,Marketing,138312,18,16,4,2,4,No,6,0,17,2,No
+1134,50,R&D,Manager,Other,90960,12,9,4,4,3,No,6,0,22,3,No
+1135,44,Engineering,Executive,Other,26240,24,23,1,4,1,Yes,0,2,18,1,Yes
+1136,23,Support,Analyst,Technical Degree,18581,24,18,2,4,2,No,7,2,21,1,Yes
+1137,49,R&D,Manager,Marketing,60302,24,8,3,1,2,Yes,0,5,13,4,No
+1138,35,Sales,Representative,Technical Degree,115367,6,13,4,4,2,Yes,3,0,21,1,No
+1139,50,Sales,Executive,HR,35389,22,4,1,4,1,No,5,1,20,4,No
+1140,42,Engineering,Analyst,Marketing,130039,12,27,2,2,3,Yes,2,5,23,2,No
+1141,55,Engineering,Representative,HR,47330,18,22,1,3,2,Yes,1,0,10,1,Yes
+1142,34,Sales,Representative,Other,82016,21,9,4,4,2,No,0,2,15,4,No
+1143,57,Sales,Technician,Technical Degree,42415,4,20,4,4,2,No,5,1,11,1,No
+1144,53,Engineering,Analyst,Life Sciences,77877,11,20,1,3,2,Yes,0,3,16,2,No
+1145,33,R&D,Representative,Life Sciences,76043,3,18,1,1,1,No,3,5,21,1,No
+1146,39,HR,Manager,Other,15738,6,2,2,3,2,No,3,1,19,4,Yes
+1147,41,R&D,Representative,Technical Degree,91654,10,26,4,3,4,No,7,2,21,2,No
+1148,50,Engineering,Analyst,Marketing,121197,21,28,2,1,3,Yes,7,2,21,3,Yes
+1149,47,Engineering,Manager,HR,141397,21,29,2,4,3,No,6,4,24,1,No
+1150,54,Sales,Manager,Other,59646,9,29,2,1,4,No,5,5,23,3,No
+1151,35,Sales,Analyst,Technical Degree,133879,8,27,3,4,3,Yes,4,0,18,3,No
+1152,40,HR,Executive,Marketing,133633,13,22,2,3,1,Yes,2,2,23,2,Yes
+1153,37,Engineering,Technician,Other,148431,22,2,1,2,2,Yes,1,4,10,4,Yes
+1154,56,Sales,Manager,Life Sciences,65363,24,14,4,1,2,No,7,0,20,2,No
+1155,32,Sales,Manager,Other,129870,5,8,2,1,2,Yes,3,4,17,3,Yes
+1156,43,Engineering,Executive,Technical Degree,91285,4,7,2,3,1,No,3,1,24,1,No
+1157,25,HR,Analyst,Life Sciences,22866,17,25,3,2,1,No,1,3,17,4,No
+1158,54,Sales,Manager,Marketing,51496,7,24,3,4,2,Yes,2,5,12,1,No
+1159,35,Engineering,Executive,HR,105726,4,16,1,1,4,No,5,3,20,3,Yes
+1160,34,Sales,Representative,HR,36679,0,22,1,4,3,Yes,3,5,24,1,Yes
+1161,43,R&D,Technician,Life Sciences,73688,10,4,1,4,4,Yes,4,3,10,1,No
+1162,40,Engineering,Manager,HR,119612,9,7,4,1,1,No,1,1,10,1,No
+1163,54,R&D,Executive,Other,35217,14,25,3,3,2,No,0,4,19,4,No
+1164,41,Sales,Representative,HR,82039,5,14,4,4,3,No,7,3,18,1,No
+1165,41,Support,Technician,HR,44005,17,16,3,2,2,No,3,1,18,4,No
+1166,25,R&D,Analyst,Life Sciences,87425,17,14,2,1,2,Yes,2,0,11,3,Yes
+1167,21,HR,Technician,HR,47496,11,6,3,4,2,No,2,3,18,1,No
+1168,36,Support,Executive,HR,145331,4,24,3,2,1,Yes,5,3,18,2,Yes
+1169,59,Support,Analyst,Life Sciences,25354,12,22,2,1,4,No,4,4,22,2,No
+1170,56,Support,Executive,Marketing,145083,16,20,4,4,4,No,3,0,15,2,No
+1171,45,R&D,Technician,Other,121903,9,11,4,3,1,No,7,3,15,3,No
+1172,45,Support,Representative,Other,130511,6,19,4,1,2,No,7,4,11,4,No
+1173,36,Sales,Analyst,Life Sciences,129953,12,28,4,2,3,No,1,5,18,4,No
+1174,27,R&D,Technician,HR,40327,8,19,2,1,4,No,5,5,19,3,No
+1175,21,Sales,Technician,Technical Degree,140697,10,15,1,4,4,Yes,7,1,14,4,No
+1176,34,HR,Representative,Technical Degree,95226,8,8,2,1,2,Yes,3,1,20,4,Yes
+1177,33,Support,Executive,Technical Degree,144891,7,16,3,4,3,Yes,0,3,24,1,No
+1178,28,Engineering,Manager,Other,133549,17,11,4,3,4,No,1,2,12,3,No
+1179,31,Support,Manager,Technical Degree,93247,11,18,2,3,4,No,5,1,18,4,No
+1180,21,Sales,Technician,Technical Degree,65552,11,2,2,4,2,Yes,7,0,20,1,No
+1181,44,Engineering,Analyst,HR,30833,16,6,2,4,4,No,1,0,10,3,No
+1182,57,Engineering,Technician,Technical Degree,28649,9,23,4,1,2,No,4,2,12,4,No
+1183,47,HR,Analyst,Other,67610,2,12,1,1,1,Yes,3,4,15,2,Yes
+1184,38,Sales,Representative,Marketing,124479,21,13,2,1,4,No,2,0,12,4,No
+1185,37,Sales,Technician,Other,83221,1,16,1,3,4,No,5,0,15,4,No
+1186,32,Support,Executive,HR,80038,14,13,4,3,2,No,7,1,12,3,No
+1187,26,R&D,Representative,Other,48001,6,23,2,1,2,No,1,5,23,3,Yes
+1188,44,Engineering,Representative,Marketing,91193,5,8,1,1,2,No,0,5,18,3,No
+1189,43,Support,Executive,Technical Degree,101140,1,22,2,3,1,No,2,2,14,2,Yes
+1190,21,HR,Manager,Life Sciences,147589,22,7,1,3,4,No,2,0,21,2,No
+1191,37,R&D,Representative,Other,113471,10,11,2,2,1,No,5,0,10,3,No
+1192,31,HR,Representative,Other,96973,8,18,4,4,3,No,4,5,18,2,No
+1193,27,R&D,Analyst,Marketing,137860,18,26,3,4,1,No,0,2,20,4,No
+1194,48,Sales,Analyst,Life Sciences,72372,0,7,4,4,3,No,2,0,22,4,No
+1195,41,Support,Executive,HR,141218,14,18,3,2,4,Yes,5,5,13,2,No
+1196,45,R&D,Analyst,HR,64947,12,2,4,4,3,Yes,3,3,18,3,No
+1197,48,Engineering,Technician,Technical Degree,32250,13,3,2,3,3,No,4,2,21,1,No
+1198,59,Engineering,Manager,Life Sciences,71378,3,23,4,3,4,No,2,2,21,1,No
+1199,52,HR,Manager,Other,32383,23,21,1,2,4,No,2,1,12,2,No
+1200,45,HR,Representative,Technical Degree,30983,5,11,2,4,4,No,1,5,24,1,No
+1201,55,Sales,Analyst,HR,133963,16,19,3,3,1,Yes,0,4,14,4,No
+1202,39,HR,Manager,Other,122291,18,12,2,1,3,Yes,0,1,15,1,No
+1203,59,Engineering,Manager,Technical Degree,44863,8,9,2,4,4,No,4,4,12,2,No
+1204,50,Sales,Analyst,Life Sciences,128091,3,13,1,1,2,Yes,1,1,12,2,Yes
+1205,46,R&D,Manager,Other,24301,7,10,1,3,3,No,4,2,13,1,No
+1206,56,Engineering,Analyst,HR,53393,20,24,3,3,1,No,7,4,12,2,No
+1207,41,Support,Representative,Other,110323,22,12,4,3,4,No,5,0,20,3,No
+1208,49,R&D,Technician,HR,56012,23,10,1,1,3,No,4,4,18,4,No
+1209,32,Support,Manager,Other,113617,5,16,2,2,3,No,0,1,15,1,No
+1210,58,Sales,Analyst,Other,133035,15,22,4,4,4,No,3,4,18,1,No
+1211,45,HR,Analyst,Marketing,23918,3,8,4,1,1,Yes,7,2,19,2,Yes
+1212,51,Support,Technician,Life Sciences,18235,17,28,1,3,2,No,3,0,12,2,No
+1213,38,HR,Technician,Life Sciences,141900,10,14,3,4,4,No,6,4,14,4,No
+1214,54,HR,Analyst,HR,85261,17,20,1,4,1,Yes,5,1,23,1,Yes
+1215,23,Sales,Manager,Marketing,83374,17,28,1,3,4,No,2,5,10,2,No
+1216,25,HR,Technician,Technical Degree,77596,24,13,1,2,2,No,1,5,24,3,No
+1217,40,HR,Executive,HR,73537,12,6,3,3,3,Yes,0,1,24,2,No
+1218,49,Support,Technician,Technical Degree,108167,8,22,1,2,3,No,2,3,13,3,No
+1219,52,R&D,Representative,Life Sciences,93265,13,1,2,3,3,No,2,2,14,4,No
+1220,38,R&D,Technician,Marketing,37057,4,14,1,3,4,No,5,3,13,3,No
+1221,46,Engineering,Analyst,Life Sciences,99596,2,29,2,3,2,No,4,3,18,2,No
+1222,42,Support,Representative,Marketing,105224,12,13,3,1,1,No,3,1,13,4,No
+1223,58,R&D,Analyst,HR,30336,20,20,2,4,2,No,5,3,21,4,No
+1224,46,Engineering,Analyst,Technical Degree,65859,13,16,2,3,3,No,6,1,15,4,No
+1225,37,Support,Representative,HR,121718,19,7,3,4,4,Yes,5,5,24,1,No
+1226,58,Engineering,Executive,Life Sciences,98526,4,10,3,3,4,Yes,7,5,22,4,No
+1227,25,HR,Technician,HR,33409,11,16,1,4,2,No,2,0,16,4,No
+1228,59,R&D,Technician,Technical Degree,20412,15,4,4,4,4,No,6,4,18,4,No
+1229,27,R&D,Analyst,Marketing,93463,8,13,4,4,1,Yes,3,5,10,3,No
+1230,32,Sales,Executive,HR,77333,0,13,3,3,1,No,1,0,11,2,No
+1231,53,Sales,Technician,Life Sciences,144741,1,25,3,3,1,No,1,4,17,3,No
+1232,49,HR,Manager,Technical Degree,85503,23,4,3,1,4,No,0,5,17,3,No
+1233,58,Sales,Representative,Technical Degree,140750,15,25,2,2,1,No,7,1,15,4,No
+1234,50,Sales,Technician,Life Sciences,43934,6,12,2,2,3,No,1,3,11,2,No
+1235,45,Engineering,Manager,Other,75390,6,19,2,4,4,No,6,4,22,3,No
+1236,34,Sales,Analyst,Marketing,33849,0,17,1,3,4,No,6,2,16,4,No
+1237,21,Sales,Executive,Life Sciences,92520,23,9,4,2,4,Yes,3,1,17,4,No
+1238,25,HR,Analyst,Technical Degree,40444,2,27,2,1,1,No,7,2,16,1,Yes
+1239,32,Support,Executive,Other,81455,18,7,2,3,2,Yes,7,2,17,4,Yes
+1240,22,Engineering,Representative,HR,61459,6,2,4,2,3,No,7,4,19,1,No
+1241,40,Sales,Technician,HR,40073,8,22,3,1,3,Yes,3,2,21,4,No
+1242,51,Sales,Manager,Other,28069,6,19,3,2,3,No,2,2,18,1,No
+1243,58,Engineering,Representative,Life Sciences,84127,20,26,1,4,3,No,0,5,12,1,No
+1244,40,Engineering,Executive,Technical Degree,142888,0,14,2,1,2,Yes,6,3,23,3,Yes
+1245,55,R&D,Analyst,Marketing,41831,8,1,3,2,1,No,6,5,14,3,No
+1246,59,Support,Executive,HR,69674,6,1,2,3,2,Yes,4,4,10,3,Yes
+1247,54,Support,Executive,Other,45321,6,13,1,1,2,No,0,5,10,2,No
+1248,39,Engineering,Manager,Life Sciences,124210,4,8,4,1,3,No,6,1,21,1,No
+1249,33,Engineering,Manager,Life Sciences,71011,22,27,2,4,4,No,2,5,15,3,No
+1250,59,Engineering,Technician,Other,146546,9,4,3,3,3,No,4,5,10,3,No
+1251,30,Sales,Representative,Technical Degree,48097,10,26,2,1,3,No,5,0,22,3,No
+1252,37,Engineering,Technician,Marketing,25899,9,7,3,1,1,No,1,2,14,2,No
+1253,23,Support,Technician,Life Sciences,93640,24,4,4,2,3,No,0,2,24,4,No
+1254,51,R&D,Analyst,Marketing,102975,8,8,4,3,2,No,0,2,23,4,No
+1255,46,Sales,Manager,Life Sciences,148750,8,5,1,3,1,No,7,4,10,1,No
+1256,24,R&D,Manager,Marketing,132640,8,12,3,1,1,Yes,7,4,20,1,No
+1257,29,R&D,Representative,Life Sciences,134362,8,10,4,3,4,No,3,1,19,1,No
+1258,42,Support,Analyst,Life Sciences,100621,2,16,3,4,4,Yes,3,3,12,1,No
+1259,42,HR,Analyst,Other,63575,15,16,1,1,3,No,3,5,15,3,No
+1260,52,Engineering,Executive,HR,72918,0,1,1,1,4,No,2,2,17,3,No
+1261,31,Support,Analyst,Other,33055,5,4,1,4,1,No,4,5,12,2,No
+1262,57,Engineering,Technician,Marketing,73195,5,5,1,3,2,Yes,2,3,20,3,Yes
+1263,38,Engineering,Analyst,Marketing,64199,7,6,4,4,4,Yes,4,5,14,4,No
+1264,53,Support,Technician,Marketing,19846,18,3,4,2,1,No,3,5,24,4,No
+1265,30,Engineering,Representative,Technical Degree,42603,14,10,3,2,3,Yes,5,0,22,2,No
+1266,22,R&D,Executive,Life Sciences,87171,24,16,3,1,1,No,7,4,19,3,No
+1267,23,Engineering,Representative,Marketing,64861,8,9,4,1,2,No,1,1,11,3,No
+1268,35,R&D,Representative,Other,149128,23,10,2,2,2,No,0,4,10,4,No
+1269,58,R&D,Analyst,Marketing,79601,1,14,2,1,2,Yes,4,4,12,4,Yes
+1270,22,Engineering,Technician,HR,144425,12,16,3,4,4,No,0,1,17,2,No
+1271,35,R&D,Executive,Marketing,104196,19,10,2,3,4,No,1,0,21,4,No
+1272,25,Sales,Manager,Other,20453,13,7,1,4,3,No,6,2,12,2,No
+1273,57,Support,Executive,HR,42465,23,12,3,3,3,Yes,3,1,20,4,No
+1274,47,HR,Technician,Other,110282,7,1,4,2,1,Yes,4,3,10,4,No
+1275,50,Engineering,Representative,Technical Degree,88590,0,15,1,3,1,No,6,0,13,4,Yes
+1276,48,Support,Technician,Other,55738,19,28,1,1,1,No,1,0,18,1,No
+1277,46,Engineering,Technician,Marketing,85481,1,12,2,4,4,No,3,2,22,1,No
+1278,51,Engineering,Executive,Technical Degree,136903,19,4,4,3,1,Yes,0,4,21,4,No
+1279,21,Engineering,Representative,Life Sciences,67475,18,21,3,1,2,No,3,1,17,1,No
+1280,54,R&D,Executive,Life Sciences,21090,21,4,3,3,4,Yes,1,1,10,1,No
+1281,49,Support,Analyst,HR,56979,11,6,3,3,3,Yes,7,0,14,2,No
+1282,49,Engineering,Technician,Marketing,141343,22,5,2,1,3,No,2,1,21,2,No
+1283,36,Sales,Representative,Life Sciences,117839,4,26,3,1,1,No,1,1,11,1,No
+1284,52,Sales,Representative,Marketing,128059,10,29,1,4,3,Yes,0,1,20,1,Yes
+1285,35,Support,Analyst,Marketing,138066,3,17,1,2,3,No,1,2,20,2,No
+1286,22,Support,Analyst,HR,30863,19,18,4,3,2,Yes,1,1,21,3,Yes
+1287,56,Support,Analyst,Life Sciences,53160,17,19,3,1,3,Yes,1,4,13,3,No
+1288,30,Sales,Analyst,Life Sciences,23076,20,18,1,3,4,No,5,2,13,4,Yes
+1289,24,Support,Technician,HR,15639,19,16,2,1,2,No,7,4,12,4,Yes
+1290,45,Support,Technician,Life Sciences,127685,7,29,1,2,2,No,6,3,15,1,Yes
+1291,30,Engineering,Analyst,Technical Degree,141487,1,22,3,3,2,No,7,3,17,3,No
+1292,54,HR,Analyst,HR,36027,23,3,4,2,4,Yes,7,3,11,1,No
+1293,38,HR,Executive,Technical Degree,112492,12,12,2,3,1,No,3,5,18,2,No
+1294,21,HR,Executive,Life Sciences,87211,2,29,2,1,4,No,3,1,13,2,No
+1295,58,Sales,Analyst,HR,24345,23,12,1,2,4,Yes,5,5,18,3,Yes
+1296,41,HR,Manager,Life Sciences,138625,24,6,2,4,2,No,2,1,14,2,No
+1297,31,R&D,Technician,Marketing,132617,11,26,2,2,3,Yes,4,0,24,4,No
+1298,47,R&D,Representative,Life Sciences,91605,19,19,1,1,4,No,7,4,14,2,No
+1299,41,Sales,Technician,Technical Degree,110564,0,17,2,4,4,No,1,5,23,4,No
+1300,22,HR,Representative,HR,68626,2,13,4,4,2,Yes,6,0,12,4,No
+1301,50,Sales,Analyst,HR,122033,6,4,4,3,1,No,7,3,11,3,No
+1302,36,Support,Representative,Life Sciences,75077,16,12,2,4,3,Yes,4,3,12,1,No
+1303,48,Support,Representative,Marketing,148538,3,13,4,4,1,No,2,1,16,3,No
+1304,55,Support,Executive,Life Sciences,23520,0,28,1,3,1,Yes,2,3,23,2,Yes
+1305,44,R&D,Technician,Marketing,38240,16,9,4,3,4,Yes,1,4,12,2,No
+1306,47,Sales,Analyst,Marketing,145781,19,5,2,1,2,No,2,3,21,2,No
+1307,30,HR,Representative,HR,53985,18,13,3,3,3,No,5,3,20,2,No
+1308,30,Engineering,Analyst,HR,56938,19,29,1,2,1,Yes,4,5,15,2,Yes
+1309,37,Sales,Executive,Other,121822,20,14,4,4,1,No,1,1,15,4,No
+1310,54,Support,Manager,Marketing,40564,15,11,2,2,1,Yes,4,3,24,2,No
+1311,41,HR,Executive,Life Sciences,84327,12,20,4,4,2,No,6,1,20,2,No
+1312,34,Support,Manager,Life Sciences,53616,21,19,1,3,1,No,0,5,13,3,No
+1313,51,Sales,Executive,Other,41721,8,9,3,3,2,Yes,0,1,23,1,No
+1314,54,HR,Technician,Other,145190,2,29,1,4,2,No,7,5,16,3,Yes
+1315,56,HR,Analyst,Marketing,41986,18,18,4,2,3,No,5,3,11,4,No
+1316,32,Sales,Technician,Other,27728,6,2,2,2,3,No,4,1,22,4,No
+1317,48,Engineering,Representative,Technical Degree,105981,24,12,3,2,2,No,7,4,23,1,No
+1318,44,Support,Technician,Life Sciences,132085,10,27,4,4,2,No,4,1,16,2,No
+1319,38,HR,Analyst,Marketing,32211,21,12,3,4,1,No,4,1,20,1,No
+1320,36,R&D,Manager,Marketing,110558,1,17,1,1,2,No,1,2,13,3,Yes
+1321,25,Engineering,Technician,HR,88006,16,18,1,2,4,No,6,4,22,2,Yes
+1322,31,R&D,Analyst,Life Sciences,127052,11,21,1,2,4,No,6,2,15,4,No
+1323,42,R&D,Technician,Life Sciences,32138,11,26,4,3,2,No,2,3,14,1,No
+1324,55,Engineering,Executive,HR,146746,6,5,4,1,4,No,5,3,17,4,No
+1325,54,HR,Executive,Marketing,98579,24,15,2,3,3,No,5,1,14,2,No
+1326,28,R&D,Executive,Marketing,128690,9,16,4,3,1,No,0,1,19,4,No
+1327,47,HR,Technician,Other,63864,21,5,1,1,4,No,1,1,21,1,No
+1328,24,Support,Analyst,Other,142356,10,20,3,1,2,No,4,1,16,2,No
+1329,47,HR,Manager,Technical Degree,99558,1,4,2,3,3,No,4,5,21,2,No
+1330,34,Sales,Manager,Other,32136,21,14,1,2,3,No,5,2,16,4,No
+1331,38,Support,Technician,Other,139591,4,10,2,4,2,No,2,2,24,3,No
+1332,48,Engineering,Representative,Technical Degree,122431,6,5,2,4,3,No,6,4,13,4,No
+1333,37,R&D,Representative,Other,55527,21,24,2,4,3,No,3,4,20,3,No
+1334,52,Support,Analyst,Life Sciences,88666,22,8,1,3,2,Yes,1,4,18,4,No
+1335,41,Support,Technician,Life Sciences,67388,22,8,2,4,2,No,0,3,24,3,No
+1336,59,Support,Executive,Other,88371,10,25,1,1,3,Yes,7,5,13,3,Yes
+1337,45,R&D,Representative,Life Sciences,145325,18,26,4,2,1,Yes,5,5,12,4,No
+1338,32,Support,Executive,HR,136354,8,1,2,1,1,No,3,1,23,4,No
+1339,51,Support,Manager,Technical Degree,44097,18,9,1,3,4,No,1,0,23,3,No
+1340,36,Support,Technician,HR,146193,12,21,3,3,2,No,0,2,21,2,No
+1341,41,HR,Representative,HR,74122,1,23,4,2,3,Yes,1,5,17,3,Yes
+1342,26,R&D,Executive,Life Sciences,110153,10,29,2,2,3,No,0,5,16,3,No
+1343,25,R&D,Technician,Marketing,118170,11,17,4,3,4,No,4,4,19,4,No
+1344,43,Support,Executive,HR,80196,6,1,3,1,3,No,1,4,21,3,No
+1345,28,HR,Executive,Other,76648,9,26,3,3,3,No,1,1,14,4,No
+1346,59,Support,Analyst,Other,76614,12,5,2,3,4,No,2,3,10,3,No
+1347,54,HR,Analyst,Other,131444,1,4,1,1,4,Yes,5,1,11,4,Yes
+1348,48,HR,Manager,Other,67156,3,20,2,1,1,Yes,3,3,15,4,Yes
+1349,49,Sales,Representative,Other,52789,19,18,4,2,3,Yes,1,1,20,4,No
+1350,44,HR,Technician,Technical Degree,63815,8,2,4,3,1,No,5,0,16,1,No
+1351,23,HR,Analyst,Marketing,41309,15,5,4,2,4,Yes,3,5,19,4,No
+1352,36,Sales,Analyst,Technical Degree,67853,14,18,4,2,1,Yes,1,5,17,2,No
+1353,40,Sales,Analyst,HR,30400,13,8,2,3,1,Yes,5,4,13,4,Yes
+1354,56,HR,Executive,Technical Degree,27116,10,20,2,1,1,Yes,7,3,21,2,Yes
+1355,29,R&D,Technician,Other,112719,12,12,4,3,3,No,4,1,20,2,No
+1356,40,Engineering,Technician,HR,25453,20,18,3,1,1,Yes,1,3,24,3,No
+1357,34,HR,Analyst,Marketing,91707,24,14,2,1,1,No,2,4,22,3,No
+1358,26,HR,Analyst,Other,120282,6,11,2,1,3,Yes,4,3,15,3,No
+1359,25,Sales,Representative,Other,112805,16,10,4,2,4,Yes,7,1,20,1,No
+1360,35,HR,Technician,Technical Degree,75219,24,21,1,1,3,Yes,7,2,15,4,Yes
+1361,24,HR,Manager,Life Sciences,41140,0,15,1,4,2,No,7,5,23,2,Yes
+1362,23,HR,Executive,Marketing,140642,19,18,3,2,3,Yes,6,1,19,4,Yes
+1363,34,R&D,Representative,Other,127746,12,17,1,4,3,No,4,5,22,2,No
+1364,28,Sales,Technician,Life Sciences,97649,24,7,1,4,2,Yes,5,4,14,3,Yes
+1365,42,Support,Technician,Technical Degree,26712,14,27,4,4,3,No,5,5,10,3,No
+1366,21,Support,Manager,HR,19748,20,17,2,4,1,Yes,5,3,12,1,Yes
+1367,32,Support,Executive,Marketing,57554,4,21,3,1,1,No,5,1,17,2,No
+1368,38,R&D,Analyst,Other,36265,3,26,2,2,3,No,1,0,24,3,No
+1369,58,Engineering,Technician,Technical Degree,131148,23,27,1,3,2,Yes,7,3,19,4,Yes
+1370,45,Sales,Manager,Life Sciences,42785,13,20,1,3,1,Yes,0,2,22,4,No
+1371,55,Support,Analyst,Marketing,53157,13,23,4,1,1,No,3,0,17,2,No
+1372,34,Sales,Representative,Marketing,146724,4,14,1,3,4,Yes,3,5,24,3,Yes
+1373,38,HR,Manager,Marketing,125465,5,22,3,4,2,Yes,7,5,24,1,Yes
+1374,37,Support,Manager,Other,44525,20,10,2,4,1,No,0,2,13,4,No
+1375,55,Engineering,Manager,Marketing,66778,7,21,2,2,3,Yes,3,4,22,4,Yes
+1376,58,Support,Representative,Technical Degree,84627,14,3,4,1,3,No,2,2,10,4,No
+1377,58,HR,Analyst,Technical Degree,104676,7,27,3,2,2,No,0,2,18,2,No
+1378,50,Sales,Representative,Marketing,141383,6,8,3,2,4,No,1,3,16,2,No
+1379,40,Sales,Representative,Technical Degree,132601,4,20,2,2,2,Yes,3,2,14,4,Yes
+1380,42,Sales,Analyst,Marketing,146921,23,1,2,2,3,No,7,4,24,3,No
+1381,59,Sales,Executive,Life Sciences,20487,23,5,3,2,3,No,3,1,19,1,No
+1382,32,HR,Manager,Technical Degree,46908,2,29,1,1,3,Yes,7,4,12,3,Yes
+1383,34,Sales,Analyst,Technical Degree,91005,8,25,1,2,1,No,5,5,12,3,No
+1384,55,Sales,Manager,Life Sciences,21630,14,7,3,2,3,No,6,5,11,2,No
+1385,36,HR,Executive,HR,62971,9,4,3,1,3,No,6,0,14,2,No
+1386,30,Engineering,Representative,HR,35736,18,24,1,4,1,Yes,5,0,11,1,Yes
+1387,42,Engineering,Manager,Marketing,140944,6,29,4,3,1,Yes,5,3,13,2,Yes
+1388,33,Sales,Technician,Technical Degree,23549,1,5,3,4,3,No,1,5,21,1,No
+1389,55,Support,Representative,Marketing,35034,8,20,1,3,1,No,5,5,23,2,No
+1390,56,HR,Analyst,HR,41341,14,9,4,1,4,No,0,5,21,1,No
+1391,32,R&D,Technician,Life Sciences,35060,4,22,4,4,1,Yes,5,0,17,2,Yes
+1392,41,R&D,Executive,HR,91756,20,13,2,2,4,No,5,3,20,3,No
+1393,59,Support,Technician,Life Sciences,64186,0,4,2,3,3,Yes,6,4,24,2,Yes
+1394,49,HR,Representative,Life Sciences,138180,1,10,2,2,2,No,5,3,10,1,Yes
+1395,29,R&D,Representative,Marketing,50210,12,16,3,2,2,No,2,4,23,4,No
+1396,44,HR,Executive,Life Sciences,87524,12,24,1,2,2,Yes,2,1,20,2,Yes
+1397,45,Sales,Manager,Technical Degree,104112,7,1,2,2,3,Yes,4,2,15,3,Yes
+1398,46,Sales,Executive,Life Sciences,99508,6,28,1,3,4,Yes,3,2,16,3,Yes
+1399,21,R&D,Representative,Marketing,122511,1,19,1,3,1,No,2,5,16,3,No
+1400,32,R&D,Manager,Life Sciences,42252,16,26,2,1,3,No,3,1,12,2,No
+1401,54,R&D,Analyst,Other,83506,9,27,3,1,4,No,4,1,13,4,No
+1402,30,Sales,Analyst,HR,123078,2,5,4,4,2,No,1,0,14,4,No
+1403,32,Engineering,Technician,Marketing,131507,9,3,1,3,3,No,5,0,10,4,No
+1404,33,Sales,Representative,Life Sciences,98401,23,23,1,4,1,No,2,5,17,2,No
+1405,27,R&D,Manager,Other,103005,6,6,2,3,4,No,2,5,17,2,No
+1406,27,Support,Technician,HR,131658,22,5,3,3,1,No,3,1,14,1,No
+1407,34,Sales,Manager,Other,99357,6,14,4,4,2,No,0,4,12,2,No
+1408,55,R&D,Executive,Life Sciences,143093,4,27,3,3,2,No,4,3,24,4,No
+1409,21,HR,Executive,Marketing,32225,6,24,3,2,2,No,5,5,20,2,No
+1410,32,R&D,Manager,Life Sciences,61966,8,16,1,3,1,No,7,1,17,4,No
+1411,23,R&D,Analyst,Technical Degree,30144,3,6,1,1,3,No,2,5,20,4,No
+1412,42,Sales,Technician,Life Sciences,27228,14,10,1,2,1,No,4,2,15,3,No
+1413,30,HR,Representative,Life Sciences,78712,8,20,3,3,4,Yes,4,4,13,3,No
+1414,51,Engineering,Analyst,Technical Degree,45500,17,5,2,1,1,No,5,2,20,4,No
+1415,43,HR,Analyst,Other,69966,12,16,1,3,2,Yes,4,4,21,1,Yes
+1416,51,Support,Executive,HR,74108,11,1,3,3,4,No,6,2,19,1,No
+1417,45,Engineering,Representative,HR,98824,11,10,4,2,1,No,6,5,18,1,No
+1418,38,Engineering,Manager,Other,142668,3,8,2,1,1,No,0,3,10,4,No
+1419,54,HR,Technician,Other,129667,17,20,4,3,3,Yes,2,1,19,2,No
+1420,39,Engineering,Technician,Life Sciences,66071,2,27,3,4,1,No,5,5,19,1,No
+1421,58,HR,Representative,Marketing,58953,18,5,3,3,4,No,4,4,16,1,No
+1422,59,Support,Representative,HR,119054,24,24,4,2,2,No,3,2,13,2,No
+1423,43,HR,Technician,Other,31693,19,20,1,3,4,No,1,0,24,2,No
+1424,47,HR,Technician,HR,87964,11,29,4,2,1,No,4,5,15,1,No
+1425,30,Sales,Executive,HR,72107,7,27,4,2,1,No,5,4,14,1,No
+1426,52,Support,Executive,Marketing,39679,21,3,4,2,4,Yes,0,4,20,4,No
+1427,47,HR,Analyst,Marketing,98220,6,22,3,1,4,No,4,4,17,4,No
+1428,56,Engineering,Technician,Life Sciences,58299,12,18,4,4,4,No,7,3,18,1,No
+1429,31,Engineering,Technician,Marketing,40055,19,4,4,3,2,Yes,4,1,19,2,Yes
+1430,51,Sales,Manager,Life Sciences,103180,23,8,4,1,2,No,7,1,15,2,No
+1431,39,Engineering,Analyst,Other,38516,23,27,4,4,3,No,2,0,12,2,No
+1432,28,HR,Representative,Life Sciences,105835,2,16,4,1,2,No,0,0,12,1,No
+1433,27,R&D,Executive,Marketing,36882,22,10,2,3,1,No,5,4,24,4,Yes
+1434,42,R&D,Manager,Other,73692,2,10,3,1,2,No,1,5,17,3,No
+1435,33,Engineering,Representative,Other,124079,14,25,2,2,3,Yes,0,0,16,4,No
+1436,24,Sales,Executive,Marketing,45867,23,9,4,3,1,No,1,3,14,2,No
+1437,37,Engineering,Manager,Technical Degree,118629,16,5,4,4,2,No,7,0,20,4,No
+1438,46,Support,Analyst,Technical Degree,112457,23,17,4,4,2,No,6,2,23,3,No
+1439,33,Sales,Technician,Other,136858,8,29,3,4,1,No,2,4,21,1,No
+1440,58,Sales,Manager,HR,37797,7,6,2,1,1,No,4,4,18,2,No
+1441,51,Sales,Technician,Technical Degree,111540,8,8,1,1,2,No,2,5,17,4,Yes
+1442,40,Engineering,Manager,Marketing,141450,8,14,3,4,1,Yes,1,1,22,4,No
+1443,57,Support,Manager,Marketing,118007,17,6,3,4,2,No,7,5,22,3,No
+1444,37,Support,Analyst,HR,40366,11,19,3,2,3,No,6,4,15,1,No
+1445,26,Sales,Executive,Other,125991,18,8,3,1,4,No,2,2,24,3,No
+1446,22,HR,Technician,Life Sciences,29487,10,4,4,3,1,Yes,2,1,22,4,Yes
+1447,57,Sales,Technician,HR,94493,7,8,1,1,2,No,6,0,22,1,No
+1448,58,R&D,Representative,Technical Degree,82182,4,27,2,1,1,Yes,3,5,10,2,Yes
+1449,49,R&D,Manager,Life Sciences,86695,13,28,3,4,2,No,3,1,11,1,No
+1450,25,Engineering,Manager,Life Sciences,85139,22,15,4,2,2,No,3,1,14,1,No
+1451,32,Support,Representative,Marketing,19249,21,12,4,1,4,Yes,3,2,21,4,No
+1452,22,Support,Executive,Marketing,83606,6,24,4,3,2,No,4,0,11,1,No
+1453,22,Sales,Analyst,Life Sciences,141460,11,6,4,2,4,No,0,4,11,1,No
+1454,30,R&D,Analyst,Marketing,73950,17,19,4,3,1,Yes,3,4,10,1,No
+1455,43,R&D,Analyst,Other,52383,15,20,3,4,1,No,3,0,12,4,No
+1456,23,R&D,Analyst,HR,149300,1,21,1,1,1,No,2,0,23,2,Yes
+1457,59,R&D,Technician,Marketing,28363,14,7,3,3,2,Yes,2,0,20,4,No
+1458,38,Engineering,Executive,HR,80647,0,21,3,4,1,No,3,5,20,2,No
+1459,31,Engineering,Representative,Technical Degree,84200,2,18,1,2,1,No,2,2,14,3,Yes
+1460,41,Support,Representative,HR,79522,16,26,4,4,1,Yes,7,3,19,4,No
+1461,51,Engineering,Executive,Marketing,139433,2,6,3,2,4,Yes,4,0,21,3,No
+1462,33,R&D,Representative,Life Sciences,71938,8,18,4,2,4,No,4,1,17,3,No
+1463,22,Sales,Manager,Marketing,146395,14,25,1,4,1,No,2,3,22,1,No
+1464,22,R&D,Executive,Other,24021,16,9,4,3,4,No,7,1,18,1,No
+1465,54,Engineering,Manager,Technical Degree,114081,11,22,2,4,1,No,0,3,14,3,No
+1466,25,Support,Technician,Life Sciences,95049,2,3,3,4,2,No,4,5,19,2,No
+1467,45,R&D,Representative,Other,47473,19,21,3,3,2,No,1,1,24,1,No
+1468,35,Sales,Technician,Other,45775,23,18,3,1,2,No,6,3,22,1,No
+1469,51,Sales,Representative,Technical Degree,112156,22,6,4,2,4,No,3,5,17,2,No
+1470,23,Sales,Manager,HR,101077,18,2,1,4,3,No,2,5,18,1,No
+1471,56,Engineering,Representative,Life Sciences,97507,10,22,3,3,3,No,0,0,24,3,No
+1472,48,HR,Technician,Technical Degree,21862,21,7,4,2,3,No,6,0,21,2,No
+1473,38,Engineering,Executive,Other,95714,12,15,1,2,3,No,3,5,17,2,No
+1474,29,Sales,Executive,Technical Degree,147487,3,2,2,4,1,Yes,2,5,14,1,Yes
+1475,59,HR,Manager,Life Sciences,17338,21,28,2,1,2,No,6,1,23,3,Yes
+1476,32,Sales,Executive,HR,78315,8,16,3,1,1,No,0,3,24,1,No
+1477,40,R&D,Manager,HR,81740,23,28,4,4,3,Yes,3,3,11,3,No
+1478,36,Engineering,Representative,HR,136061,9,5,4,2,2,Yes,1,4,10,4,No
+1479,29,R&D,Manager,HR,53184,21,6,4,4,3,No,1,4,11,4,No
+1480,37,Engineering,Technician,Life Sciences,79200,13,18,2,3,3,No,0,2,15,3,No
+1481,26,R&D,Representative,Life Sciences,111820,11,18,3,4,2,No,1,5,12,4,No
+1482,21,HR,Manager,HR,23144,7,23,1,3,1,No,7,0,23,4,Yes
+1483,32,HR,Technician,Other,123147,20,27,2,4,4,No,3,0,23,3,No
+1484,25,R&D,Analyst,Life Sciences,125998,1,24,1,4,2,No,7,5,12,2,Yes
+1485,37,Sales,Manager,Technical Degree,112152,11,5,1,1,1,Yes,2,1,22,3,No
+1486,54,HR,Representative,Technical Degree,102504,9,9,4,4,2,No,6,5,12,4,No
+1487,27,Support,Technician,Marketing,115927,13,27,4,3,4,Yes,0,1,21,3,No
+1488,21,Engineering,Analyst,HR,120537,6,16,3,1,2,No,0,2,15,2,No
+1489,25,Engineering,Representative,Other,136958,16,26,1,1,4,No,0,0,10,1,No
+1490,40,Support,Representative,Other,72802,9,17,1,2,2,No,7,5,16,1,No
+1491,31,Sales,Technician,Life Sciences,76567,4,2,1,1,4,No,5,2,22,2,No
+1492,40,Engineering,Representative,Technical Degree,101121,4,14,3,2,3,No,5,1,24,4,No
+1493,22,R&D,Manager,Other,41067,17,24,1,4,1,Yes,7,2,11,3,Yes
+1494,33,Engineering,Manager,Marketing,130590,6,19,2,2,3,Yes,2,0,22,1,Yes
+1495,36,Support,Manager,Other,119019,7,4,4,1,2,Yes,5,4,14,4,Yes
+1496,37,Support,Technician,Technical Degree,100193,15,7,4,2,1,Yes,4,0,16,2,No
+1497,42,HR,Representative,Technical Degree,55722,8,25,4,1,3,No,4,2,11,2,No
+1498,51,Support,Technician,Marketing,61935,9,29,2,4,1,No,5,2,24,4,Yes
+1499,39,Engineering,Analyst,Other,73721,6,22,3,1,3,No,3,0,21,2,No
+1500,53,Sales,Technician,Technical Degree,104441,8,3,1,4,4,No,0,0,19,3,No
